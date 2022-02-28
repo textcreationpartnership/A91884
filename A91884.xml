@@ -1,0 +1,2106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A moderate answer to Mr. Prins full reply to certaine observations on his first twelve questions: vvherein all his reasons and objections are candidly examined and refuted. A short description of the congregationall way discovered. Some arguments for indulgence to tender consciences modestly propounded. By the same author.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 130 KB of XML-encoded text transcribed from 28 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91884</idno>
+            <idno type="STC">Wing R1676</idno>
+            <idno type="STC">Thomason E26_20</idno>
+            <idno type="STC">ESTC R13022</idno>
+            <idno type="EEBO-CITATION">99859389</idno>
+            <idno type="PROQUEST">99859389</idno>
+            <idno type="VID">154994</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91884)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154994)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 5:E26[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A moderate answer to Mr. Prins full reply to certaine observations on his first twelve questions: vvherein all his reasons and objections are candidly examined and refuted. A short description of the congregationall way discovered. Some arguments for indulgence to tender consciences modestly propounded. By the same author.</title>
+                  <author>Goodwin, John, 1594?-1665.</author>
+                  <author>Robinson, Henry, 1605?-1664?, attributed name.</author>
+               </titleStmt>
+               <extent>[2], 48, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Benjamin Allen, and are to be sold at his shop in Popes head Alley at the signe of the Crowne,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Henry Robinson in NUC pre-1956 and John Goodwin in Halkett and Laing.</note>
+                  <note>Final leaf is blank.</note>
+                  <note>Annotation on Thomason copy: "Jan: 27."; the 5 in imprint date is crossed out and altered to 1644.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prynne, William, 1600-1669. --  Full reply to Certaine briefe observations and antiqueries on Master Prynnes twelve questions about church-government.</term>
+               <term>Prynne, William, 1600-1669. --  Twelve considerable serious questions touching church government.</term>
+               <term>Church polity --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Puritan Revolution, 1642-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-11</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154994:1" rendition="simple:additions"/>
+            <p>A Moderate
+ANSWER
+TO
+Mr. Prins full Reply
+To certaine Obſervations on his firſt
+Twelve Queſtions:
+VVherein all his Reaſons and Obiections
+are candidly examined and refuted.</p>
+            <p>A ſhort deſcription of the Congregationall
+way diſcovered.</p>
+            <p>Some Arguments for indulgence to tender Conſciences
+modeſtly propounded.</p>
+            <p>By the ſame Author.</p>
+            <p>LONDON,
+Printed for <hi>Benjamin Allen,</hi> and are to be ſold at his
+ſhop in Popes head Alley at the ſigne of the
+Crowne. 1645.</p>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:154994:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb facs="tcp:154994:3"/>
+            <pb n="1" facs="tcp:154994:3"/>
+            <head>A Moderate Anſwer to Maſter Prinnes
+Booke, called,
+A FULL REPLY.</head>
+            <p>
+               <seg rend="decorInit">I</seg> Will not ſtand upon the many looſe paſſages
+and hard ſpeeches that this Reply is full of,
+deſiring rather the opening of truth, then the
+diſcovery of any mans corruptions; wiſe men
+(that muſt ſee us both) will judge us, not by
+our words, but by our reaſon. If truth be on
+his ſide, ſurely he hath very much ſpoiled her
+beautifull face with his black and uncharitable
+language. Truth is moſt glorious in her owne garments, whatever
+men cloath her with but her owne apparell doth but deforme her:
+If this be her attire that Maſter <hi>Prinne</hi> preſents here arrayed in,
+certainly ſhe hath changed her forme, ſhe never came out ſo of
+the boſome of Chriſt, ſhe was never wont to appeare among the
+Saints in ſuch a garbe; paſſion and railing were never wont to be
+her companions; peace, gentleneſſe, and meekneſſe ever attended
+her as handmaids: How little of this waits on his Reply, let
+any that was ever acquainted with ſuch a ſpirit, judge. In the very
+title-leafe he cryes out (an anonymous Author aſhamed of his
+name;) were you aſhamed of your name (Sir) when you put forth
+<hi>The unbiſhoping of Timothy and Titus? The quench Coale? The Abrevi<g ref="char:EOLhyphen"/>ate?</hi>
+all which you owne in this Reply; You that writ <hi>The Ana<g ref="char:EOLhyphen"/>tomy
+of Independency; The myſtery of Iniquity; The Subjects liberty,</hi> all
+without your name; call in your Books write no more, <hi>You are aſha<g ref="char:EOLhyphen"/>med
+of your names:</hi> You are not ignorant of the many worthy things
+that have beene put forth without a name, there be many reaſons
+may be given for it; it is not the name but the thing; not who
+<pb n="2" facs="tcp:154994:4"/>
+writ, but what is written, that will ſatisfie. The truth is, we are
+falne into times wherein (as <hi>Tertullian</hi> of old complained) men re<g ref="char:EOLhyphen"/>ceive
+<hi>fidem ex hominibus, non homines ex fide.</hi> I deſired naked truth
+might appeare, though I was not ſeene in the ſetting of it forth; in
+his Preface he cryes out, <hi>He is hated, envied, <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>pugned, for telling of the
+truth.</hi> If to anſwer be to envy, hate, &amp;c. no truth of Chriſt can
+lawfully be ſtood for; ſurely the Spirit of Chriſt never taught you
+to jduge ſo harſhly of thoſe who onely labour to vindicate the
+truth of Chriſt, and friendly to examine your ungrounded <hi>queries</hi>
+about it. To paſſe over many other things, which to ſpeake to
+will rather fill up the paper then be ſatisfactory: obſerve but one or
+two of theſe reaſons he gives for his writing, by way of queſtion.</p>
+            <p>Firſt,<note place="margin">In his Preface to indepen<g ref="char:EOLunhyphen"/>dency exami<g ref="char:EOLhyphen"/>ned, &amp;c.</note> that he ſaith the Independents had never dogmatically
+(to his knowledge) reſolved or diſcovered in print what that
+Church-government is they ſo eagerly contend for; and yet take
+notice, he confutes them, urgeth theſe Queries as his Reaſons;
+What a contradiction this is, let all judge: how a man can confute
+that in an opinion which he knowes not to be held in it; and
+out-argue that he never knew dogmatically reſolved on, is
+beyond my intellectuals to conceive. Neither I (ſaith he) nor
+any one writer ever diſcovered it, and yet Maſter <hi>Prinne</hi> hath
+confuted it unanſwerably, <hi>For that</hi> (ſaith he) <hi>he ſeriouſly profeſ<g ref="char:EOLhyphen"/>ſeth
+thefore God, Angels, or men, that he could never yet diſcover in
+leaſt footſteps of it in Scripture, Antiquity, &amp;c.</hi> I ſhall only pray that
+God would anoint your eyes with the eye-ſalve of the Word, that
+you may ſee theſe truths of Jeſus Chriſt which are yet hid from
+your eyes, which many precious Saints humbly conceive they ſee,
+and ſo ſee that (if God ſhould call them) are willing to ſeale their
+ſight with their blood. But to the matter.</p>
+            <p>To the firſt queſtion he ſaith, I give no anſwer, but onely miſ<g ref="char:EOLhyphen"/>reciteth
+the queſtion <hi>without his limitations, and then refute what my
+ſelfe propounded, not be;</hi> he ſhould have ſhewne wherein, and then
+might juſtly have challenged me for it; I ſhall intreat the judi<g ref="char:EOLhyphen"/>cious
+Reader but to compare both. It ſeems Maſter <hi>Prinne</hi> is aſha<g ref="char:EOLhyphen"/>med
+now to thinke that there is no poſitive rule in the Word
+for Church-government, but that it may be ſuited to States. He
+ſaith, <hi>I ſhould have exactly proved by direct Scriptures that Chriſt hath
+preſcribed one ſet immutable forme of Government to all Chriſtians, Nati<g ref="char:EOLhyphen"/>ons,
+&amp;c. from which none muſt vary in a tittle; and then have proved from
+<pb n="3" facs="tcp:154994:4"/>
+Goſpel Texts, that which he calls independencie to be this Government, but
+in this Point the Reſpondent is wholly ſilent, and I ſhall expect (ſaith he)
+his Anſwer Ad Graecas Calendas.</hi> Obſerve (Reader) that yet he ſaith
+in the following words, I indeavour to prove it: to ſay nothing,
+to be wholly ſilent, and to indeavour to prove a thing, to me can
+have no better title, then a groſſe contradiction: but to the thing.</p>
+            <p>Firſt, Whereas he requires of me, as in the former words, ſo
+here, a full diſcovery of Church-government in the world; and
+this is that he in all his papers demands, that we will fully diſco<g ref="char:EOLhyphen"/>ver
+this Government in the word.</p>
+            <p>I anſwer: Firſt, If by a full diſcovery, he meanes that we ſay
+all that can be ſaid of it in the word, or is laid up there: it is <hi>Ini<g ref="char:EOLhyphen"/>quum
+poſtulatum,</hi> moſt unjuſtly demanded; for even <hi>In credendis,</hi> in
+matters of faith, neither Maſter <hi>Prin,</hi> nor any elſe is able to ſay all
+that can be ſaid of it, or fully to diſcover the many things that
+the word holds forth to be beleeved for ſalvation; God reveales
+more and more of the Goſpel every day in a fuller and clearer
+manner; much leſſe can any man, as yet, diſcover what is required
+for matter of Government: As for our parts, we are far from ſuch
+a thought, that we know all things in the word about Church-government;
+but that more of it may be ſtill revealed, and we dai<g ref="char:EOLhyphen"/>ly
+ſearch, and wait for more knowledge in it.</p>
+            <p>But ſecondly, if he meanes we ſhould diſcover what we hold
+concerning it, let him know, that for what we hold in it, we can
+evidence from Scripture every particular, and as much as is need<g ref="char:EOLhyphen"/>full
+in this Controverſie.</p>
+            <p>For the matter of a Church, that it ſhould be Saints, we con<g ref="char:EOLhyphen"/>ceive
+it to be evident from theſe Scriptures, <hi>Rom. 1. 7. 1 Cor.</hi> 1. 2.
+2 <hi>Cor. 1. 1. Epheſ. 1. 1. Phil.</hi> 1. 1. and in <hi>verſ.</hi> 7. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, its a righ<g ref="char:EOLhyphen"/>teous
+thing for me to judge ſo of you all; now the Apoſtle wrote
+to them as they were Churches of Chriſt; and to explaine what
+they were, he calls them Saints, ſuch, as it were an unrighteous
+thing to judge otherwiſe of them; and its reaſon that members of
+Churches ſhould be thus judged Saints, becauſe all the Ordinan<g ref="char:EOLhyphen"/>ces
+that Chriſt hath left, its for to build up the Church, they are
+to be adminiſtred in the Church; now none have right to the Or<g ref="char:EOLhyphen"/>dinances
+but Saints, and therefore none may be admitted but ſuch
+as can be judged ſo by the Saints.</p>
+            <p>Againe, for the former, which we ſay is conſent or agreement
+<pb n="4" facs="tcp:154994:5"/>
+(whether by covenant or any other way, we ſtand not on it) we
+conceive firſt, it ariſeth from the nature of the thing, the Church
+being a politick body, wherein is rule and authority, nothing but
+free conſent or agreement to walk in ſuch wayes can conſtitute it,
+as in all other policies: What makes <hi>England</hi> as a Common<g ref="char:EOLhyphen"/>wealth,
+or as a Church to be ſuch a policie, but the conſent of the
+people, who have given up themſelves to be governed by ſuch Laws
+and Conſtitutions.</p>
+            <p>Secondly, if this be not granted, there can be no diſtinction of
+Churches in the world, but all muſt be under one power: for what
+makes <hi>England</hi> as a Church diſtinct from <hi>Scotland,</hi> or <hi>Scotland</hi> from
+all Churches, that they have no authoritative power over each
+other, but onely this, that the members of <hi>England,</hi> or <hi>Scot<g ref="char:EOLhyphen"/>land,</hi>
+have not conſented to walk under any other power but their
+own? Surely the bounds of Seas or Rivers can no more diſtinguiſh
+Churches, then a wall or a doore can, if there be no other diſtin<g ref="char:EOLhyphen"/>ction;
+and no other thing but conſent can forme a Policie.</p>
+            <p>Beſides, Scripture is no way ſilent for the proof of this: Not to
+urge many, that place is famous, and may ſerve for all, in <hi>Act.</hi> 9.
+26. <hi>Paul</hi> after he was converted, it is ſaid, <hi>Aſſayed to joyne himſelfe to
+the Diſciples at Jeruſalem;</hi> and the word is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which ſigni<g ref="char:EOLhyphen"/>fieth,
+<hi>to be glewed to them:</hi> Now obſerve, <hi>Paul</hi> was converted, and a
+Saint, yet not joyned to the Church, he was in that place where
+they were, he was joyned to them as they were Saints, yet he was
+not joyned to them as a Church; and this joyning was not Phyſi<g ref="char:EOLhyphen"/>call,
+but Morall: Now this muſt be done by free conſent, and wil<g ref="char:EOLhyphen"/>ling
+ſubjection to the Ordinances, or no way.</p>
+            <p>For the ordinary Officers of the Church, they are Paſtors,
+Teachers, 1 <hi>Cor. 12. 28. Epheſ.</hi> 4. 11. Teaching-Elders, and
+Ruling-Elders, 1 <hi>Tim.</hi> 5. 17. Deacons, <hi>Acts 6. 1 Tim.</hi> 3. Wi<g ref="char:EOLhyphen"/>dows,
+1 <hi>Tim. 5. 9. Rom.</hi> 16. 1. That the Church hath power of
+chooſing its own Officers, is cleare from <hi>Acts 1. 21. Acts</hi> 6. 3. and
+Chap. 14. 23.</p>
+            <p>That a Church is but one Congregation, having power within
+it ſelfe to exerciſe all the Ordinances, is apparent in the new Te<g ref="char:EOLhyphen"/>ſtament,
+neither do we read of any other there: Firſt, the word
+(<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) uſed for the Church, ſignifieth no other; neither
+hath it any other ſignification in the new Teſtament, when
+referred to any viſible Company; neither is it uſed by any profane
+<pb n="5" facs="tcp:154994:5"/>
+Author for to note out a larger Society then could meet together
+in one place: For the Church at <hi>Jeruſalem,</hi> it was but one Church,
+<hi>Acts</hi> 2. 46. and 5. 12. and 6. 1. and 15. 25. and 21. 22. and 25. 22.
+ſo the Church of <hi>Antiochia</hi> was but one Church, <hi>Acts</hi> 14. 27. they
+are ſaid to gather the Church together; now that could not be the
+Elders, for, for Elders onely the word Church is never uſed; and
+the ſame perſons that are called the Church, <hi>verſ.</hi> 27. are in <hi>verſ.</hi> 28.
+called the Diſciples: and <hi>Chap.</hi> 15. 1. the Brethren: ſo <hi>Acts</hi> 11. 26.
+the ſame perſons are called the Church, Diſciples, and Chriſtians.
+Beſides, the Church of <hi>Corinth</hi> was but one Church, was but one
+particular Congregation, 1 <hi>Cor. 5. 4. 1 Cor. 14. 25. 1 Cor.</hi> 11. 17.
+<hi>verſ. 23. In uno &amp; codem loco:</hi> neither can the word (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) ever
+be ſhewed to ſignifie any thing elſe beſides one particular Aſſem<g ref="char:EOLhyphen"/>bly,
+as learned <hi>Baines</hi> wel obſerves. I ſhal conclude this with quoting
+of what that judicious Divine D. <hi>Ames</hi> ſaith in this particular, <hi>Med.
+p. 190. Hine variae Congregationes fixae ejuſdem Regionis ac Provinciae plu<g ref="char:EOLhyphen"/>rali
+numero ſemper appellantur Eccleſiae, non una Eccleſia, etiam in Judaea
+quae tota fuit antea una Eccleſia Nationalis,</hi>
+               <note place="margin">Act. 2. 46. &amp; 15. 12. &amp; 14. 27. 1 Cor. 5. 4 &amp; 11. 17. 23.</note> 1 <hi>Theſ. 2. 14. Acts</hi> 14. 23.
+and 15. 41. <hi>Rom. 16. 4. 5. 16. 1 Cor. 16. 1. 1. 19. 2 Cor.</hi> 8. 1. 18. 19.
+<hi>Gal. 1. 2. 22. 1. Rev. Eccleſiae enim illae particulares quae in</hi> N. T. <hi>com<g ref="char:EOLhyphen"/>memorantur,
+convenice ſolent,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>neque in toto</hi> N. T. <hi>legitue de
+inſtitutione Eccleſiae amplioris a quo minores Congregationes penderent, &amp;c.</hi>
+Thus you ſee a ſhort deſcription and diſcovery of what we hold
+about Church-government, with ſome Scriptures in ſtead of others
+that move us to this way: The Reaſons and Grounds I doubt not
+but we ſhall ſee at large when that ſhall be made publike which
+our Brethren have urged in the Aſſembly, and preſented to the
+Parliament. But to proceed:</p>
+            <p>For that part wherein he ſaith, I ſhould have proved that Chriſt
+hath ſet one immutable forme of government, and have made it
+out by direct Scriptures, beſides what is laid down in the Obſerva<g ref="char:EOLhyphen"/>tions
+(which I doubt not to make good againſt his cavills:) I
+thought Maſter <hi>Prin</hi> had read learned Maſter <hi>Parker, de Eccleſ. Pol.
+Cartwright,</hi> and the moſt of the Nonconformiſts, who though
+Presbyteriall in their judgement, yet have largely proved that; to
+whom I ſhall refer him for larger ſatisfaction. I know none that
+ever writ againſt the immutableneſſe of a forme of Church-go<g ref="char:EOLhyphen"/>vernment
+in the new Teſtament, but Epiſcopall, and Pontificiall
+men, as <hi>Hooker, Bilſon.</hi>
+            </p>
+            <p>
+               <pb n="6" facs="tcp:154994:6"/>
+The judgement of the Church of <hi>Scotland</hi> is quite contrary: For
+they aſſert their Presbytery to be <hi>Jure Divino,</hi> and holds its Title
+onely from heaven; it ſeems the Presbyterians differ as well as the
+Independants, and they are alſo various in their judgements, ſome
+think there is no forme of government, others that there is.
+But to the Arguments:</p>
+            <p>Firſt,<note place="margin">Exod. 25. 40.</note> I ſaid, if this were granted, the Goſpel would be ſtraiter
+then the Law,<note place="margin">Heb. 8. 5.</note> Chriſt more unfaithfull then <hi>Moſes:</hi> and the Argu<g ref="char:EOLhyphen"/>ment
+lies thus according to his own drawing: if God ſet a pat<g ref="char:EOLhyphen"/>tern
+to <hi>Moſes</hi> of every thing to be done in the Church, from which
+he was not to vary upon any termes, theſe being but carnall Ordi<g ref="char:EOLhyphen"/>nances
+comparatively:<note place="margin">Heb. 9. 10.</note> then he hath preſcribed a forme of go<g ref="char:EOLhyphen"/>vernment
+in the new Teſtament to all Churches, Nations, &amp;c.
+from which they may not vary: but the former, <hi>Ergo,</hi> the <hi>Medium,</hi>
+or ground of arguing between theſe two is from the care that God
+hath of the Church at all times, being one and the ſame, rather
+more in the new Teſtament God had ſhewed leſſe care over his
+Churches now than then, if he had not preſcribed a ſet Go<g ref="char:EOLhyphen"/>vernment
+for them alſo; beſides, their Ordinances had been more
+ſpirituall far then ours; for that which God directly appoints, is
+more ſpirituall then what man appoints in Gods worſhip; though
+for the kinde more noble, and the uſe in reaſon far more excellent:
+To this he ſaith in generall thus; That if I, or any other, can ſhew
+him ſuch a patterne, ſo clearly delineated in the new Teſtament, as
+that in the old, he will beleeve my ſequell, elſe he ſhall judge it a
+meere independent Argument to this before; Maſter <hi>Prin</hi>
+knows its a good way of reaſoning, if the ſame ground hold the
+ſame conſequence: we are ſure, for your Presbyteriall-government
+you cannot have the leaſt direct Texts, and you are faine to
+go to miſerable extorted conſequences, <hi>&amp;c.</hi> there is nothing
+that we hold, but we will ſhew in cleare Scriptures, as be<g ref="char:EOLhyphen"/>fore:
+where did you, or any one ever read of either name, or
+thing of a claſſicall Presbytery, of a Provinciall, or Nationall Synod,
+either alone, or by way of ſubordination?</p>
+            <p>He goes on in way of Anſwer, and ſaith, if this conſequence
+will follow, then this muſt needs alſo.</p>
+            <p>God preſcribed to <hi>Moſes</hi> the expreſſe patterne and faſhion of <hi>Aarons</hi> and
+his ſons garments, &amp;c. under the Law, <hi>Exod. Ergo,</hi> He hath like<g ref="char:EOLhyphen"/>wiſe
+ſhewed the expreſſe patterne, faſhion, and colour of all Biſhops, Presby<g ref="char:EOLhyphen"/>ters,
+and Miniſters garments under the Goſpel.</p>
+            <p>
+               <pb n="7" facs="tcp:154994:6"/>
+How weake this abſurdity is that he labours to faſten on this
+Argument, let wiſe men judge.</p>
+            <p>Firſt, I ſay not, That what ever was commanded in the old Te<g ref="char:EOLhyphen"/>ſtament
+muſt be commanded now for the matter of it, if my mean<g ref="char:EOLhyphen"/>ing
+had been ſo, this conſequence had been good; but when I ar<g ref="char:EOLhyphen"/>gue
+from the exact deſcription of every thing in the old Teſta<g ref="char:EOLhyphen"/>ment,
+to the like in the new, I argue from the equity, and common
+reaſon that is in the thing; there was ſomething in the Ceremo<g ref="char:EOLhyphen"/>nies,
+and in their forme of worſhip that was <hi>Juris Moralis, &amp;
+Naturalis;</hi> the equity of which remaines for ever, and the Apoſtle
+argues from it in ſeverall places: as that God ſhould be worſhipped
+after his own way, and according to his own preſcript, not through
+mens inventions, &amp;c. As for the matter of the things commanded
+in the old Teſtament, theſe things that were Ceremonies then, and
+had a ſpirituall ſignification, are but circumſtances now, and not to
+be regarded, as Place, Garments, &amp;c. You ſhall finde the Apoſtle
+arguing thus from this very head and inſtance in that <hi>Heb.</hi> 8. 5. See
+that thou do all things according to the patterne in the mount; he
+ſpeaks this of Chriſts Prieſtly Office, and proves that Chriſt was a
+true and reall Prieſt, and he proves it by this, becauſe all the Prieſts
+of the Law ſerved but to the example of heavenly things, and they
+had their Commiſſion onely from heaven, God gave it <hi>Moſes</hi> in the
+mount: ſurely then Chriſt (ſaith the Apoſtle) muſt needs be a reall
+high Prieſt, in whom all theſe things are fulfilled eminently: and he
+inſtanceth in this of the Tabernacle, which could not prove it but
+by reaſon of the equity of the thing; and its one of <hi>Calvins</hi> Obſer<g ref="char:EOLhyphen"/>vations
+from the place; <hi>Hic docemur perverſos eſſe omnes cultus &amp; adul<g ref="char:EOLhyphen"/>terinos,
+quos ſibi proprio ingenio, &amp; citra mandatum Dei, comminiſci homi<g ref="char:EOLhyphen"/>nes
+permittunt; nam cum praeſcribat Deus ut fiant omnia ſecundum ſuam
+regulam, nihil penitus alienum facere licet;</hi> He applies this to all wor<g ref="char:EOLhyphen"/>ſhip
+in generall, and that from the equity of the thing it ſelfe.</p>
+            <p>To quell this Argument, ſaith he further: 1. The patterne in
+the mount was meant onely of the materialls, forme, utenſils of the
+Tabernacle, not of the Government and Diſcipline; therefore ve<g ref="char:EOLhyphen"/>ry
+impertinent to prove a ſeeled form of Church-government.</p>
+            <p>
+               <hi>Anſw.</hi> I never ſaid that the Tabernacle was a patterne of
+Church-government, and therefore that will not anſwer; for
+grant it to be a preſcribing of the materialls, &amp;c. yet there is as
+great a reaſon that God ſhould preſcribe the forme of govern<g ref="char:EOLhyphen"/>ment
+<pb n="8" facs="tcp:154994:7"/>
+as that; and God did preſcribe a forme of government to
+them, from which they could not vary; I onely inſtance in this,
+becauſe the Apoſtle makes uſe of it, to prove as different the thing,
+as this: there was nothing to be done either in Church or Com<g ref="char:EOLhyphen"/>mon-wealth,
+but was diſcovered to <hi>Moſes</hi> as a rule for him to walk
+by,<note place="margin">See Exo 2<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, 21, 22, 23, 24, 25, 26, 27. Chapter.</note> which he could not vary from in a tittle; &amp; there is a great reaſon
+it ſhould be ſo now, becauſe the Ordinance and Government of
+the Church is more ſpirituall. The Materials of the Tabernacle
+he grants were exactly preſcribed; and why not then the particu<g ref="char:EOLhyphen"/>lars
+of Government, ſeeing it is as great an Ordinance as that?</p>
+            <p>
+               <hi>Secondly, he ſaith,</hi> It was ſhewed to <hi>Moſes</hi> the Temporall Magi<g ref="char:EOLhyphen"/>ſtrate,
+not to <hi>Aaron</hi> or any independant Prieſt; and therefore if there be any
+conſequence from this, Kings, Parliaments, &amp;c. ought to preſcribe, and ſet up
+ſuch a Church-government as is according to the word, &amp;c.</p>
+            <p>I anſwer, its no matter at all, neither doth it a jot prejudice my
+conſequence to whom it was diſcovered, whether <hi>Moſes</hi> or <hi>Aaron,</hi>
+they were not to vary from it; and there is as good reaſon for
+Church-government as that: but let me ask a queſtion or two of
+you, ſeeing you have urged that.</p>
+            <p>Firſt, Was this diſcovered to him, <hi>Quae</hi> a Magiſtrate, under that
+conſideration onely, or no?</p>
+            <p>Secondly, If to him as a Magiſtrate, then where will you finde a
+correlate to <hi>Moſes</hi> now?</p>
+            <p>Thirdly, Whether as a Magiſtrate he durſt preſcribe any thing
+more in a tittle, or any thing beſides the patterne in the mount, let
+Magiſtrates ſhew us what they have received immediatly as the
+minde of God, and we will as willingly take it from them as any;
+durſt <hi>Moſes,</hi> though chiefe Magiſtrate in a prudentiall way for the
+good of the people, preſcribe any thing beſides the patternes? much
+leſſe may any now, who never had the minde of God revealed to
+them as <hi>Moſes</hi> had.</p>
+            <p>
+               <hi>In fine, ſaith he,</hi> If there be any expreſſe unalterable form, pray, inform
+me why it was not as punctually deſcribed in the new Teſtament, as the forme
+of the Tabernacle. <hi>To which is anſwered againe, that it is as punctu<g ref="char:EOLhyphen"/>ally
+deſcribed, as hath been formerly ſhewen.</hi> Nay, ſaith he, why was
+the Tabernacle altered into a Temple different from it, and why did the ſe<g ref="char:EOLhyphen"/>cond
+Temple vary from the firſt in the ſame Church and Nation?</p>
+            <p>I anſwer: I never ſaid that God tied himſelfe ſo as he could not
+alter the frame of Government, but that no man could; if God
+<pb n="9" facs="tcp:154994:7"/>
+will change the Tabernacle into a Temple, its his pleaſure, and
+that is our rule, but none elſe could do it; had <hi>David</hi> or <hi>Solomon</hi>
+done it without a word from heaven, what thanks would they have
+had? It was a ſinne in <hi>Jeroboam</hi> to ſet up places of worſhip in
+<hi>Dan</hi> and <hi>Bethel,</hi> when God ſaid they ſhould go onely to <hi>Jeruſalem;</hi>
+though afterwards God changed it, and made every place fit to
+lift up pure hands to God in. Beſides, God changed things among
+the Jewes according to the fitneſſe and conveniencie of their con<g ref="char:EOLhyphen"/>dition;
+the Tabernacle was made, as ſuiting with their condition in
+the wilderneſſe, being fit to carry up and down with them: but
+when they vvere become a ſetled nation, rich and vvealthy, and
+in peace, then God commands to build a Temple. Under the Go<g ref="char:EOLhyphen"/>ſpel
+its otherwiſe; Chriſt being come himſelfe, as King of his
+Church, hath made a covenant with no nation under heaven, but
+in every nation he that feares him is accepted with him; his Laws
+being onely ſpirituall, and that concerning the conſcience: it ſuits
+with the condition of all Saints, and may be practiſed in every
+Kingdome, neither can it be altered, the Laws written in the new
+Teſtament being the laſt that ever ſhall be given to the Churches
+for ever; ſo that Maſter <hi>Prins</hi> Reaſons againſt this Argument will
+not hold when they are truly tried.</p>
+            <p>
+               <hi>To that part of the Argument wherein it is ſaid, that Chriſt ſhould be
+more unfaithfull then</hi> Moſes <hi>if he ſhould not preſcribe a ſet unalterable
+Diſcipline in the word,</hi> he anſwers nothing: whereas the Apoſtle ur<g ref="char:EOLhyphen"/>geth
+it in <hi>Heb. 3. 2. 5. 6. Moſes</hi> was faithfull in his own houſe as a
+ſervant, but Chriſt as a ſon: wherein lay the faithfulneſſe of <hi>Mo<g ref="char:EOLhyphen"/>ſes,</hi>
+but in declaring faithfully what God had preſcribed to him in
+the governing of the Church, and ordering all things, which con<g ref="char:EOLhyphen"/>cerned
+the worſhip of God, according to the patterne given in the
+mount? Now how much more unfaithfull then <hi>Moſes</hi> ſhould Chriſt
+be if he ſhould not as eminently do the like to his own houſe? For
+it was not onely matters of Doctrine, and the foundations of Re<g ref="char:EOLhyphen"/>ligion,
+that <hi>Moſes</hi> was faithfull in preſcribing to the people, but
+all the Ceremonies and parts of inſtituted worſhip, to which Di<g ref="char:EOLhyphen"/>ſcipline
+is to be referred; he did not onely give them the Deca<g ref="char:EOLhyphen"/>logue,
+but every thing that was to be practiſed by them, even to a
+pin of the Tabernacle, and therein lay his faithfulneſſe. And is
+not Chriſt as faithfull as <hi>Moſes?</hi>
+            </p>
+            <p>To the ſecond Argument: That Chriſt ſhould neither be faith<g ref="char:EOLhyphen"/>full
+<pb n="10" facs="tcp:154994:8"/>
+as a husband, head, nor King of his Church, if he ſhould give
+others power to order it as they pleaſed to their own civil govern<g ref="char:EOLhyphen"/>ment,
+not ſetting down his own Laws for them to walk by: <hi>he ſaith,
+its both a fallacie and abſurdity,</hi> yet he ſhews neither. <hi>That he ſayes to
+make it good, is this: That one may be as faithfull a Husband, Head, King,
+though he lay not down particular. Laws to regulare his Wife, Subjects, &amp;c.</hi>
+To which I anſwer: That its againſt the law of nature to require
+obedience of a Subject, Wife, &amp;c. in things immediatly appertai<g ref="char:EOLhyphen"/>ning
+to a Husband, King, and not to preſcribe rules of obedience;
+and its greateſt unfaithfulneſſe that can be, to leave theſe that are
+committed to ones care and truſt to others to rule and order, who
+cannot do for them as the party intruſted can: Should the Parlia<g ref="char:EOLhyphen"/>ment
+be faithfull to the Kingdome, if they ſhould not make parti<g ref="char:EOLhyphen"/>cular
+Laws for the governing of it, but leave it either to others, or
+elſe ſet down generall, dark, confuſed things, like ſo many blanks,
+and <hi>Et cetera's,</hi> that every one may adde what they will? Either the
+Government of the Church is a part of Chriſts Kingly Office or
+not, if it be, he cannot be faithfull if he preſcribes not particular
+Lawes for them to walke by: Beſides, either the Diſcipline
+of the Church is ſpirituall, and to edification, or not; and
+if it be ſpirituall, then none can preſcribe it but Chriſt; for that
+is onely ſpirituall in inſtituted worſhip, which hath Chriſts Precept
+for it: Neither will the giving of generall rules take away this ble<g ref="char:EOLhyphen"/>miſh,
+as that <hi>Rom. 14. 40. Let all things be done decently, and in order,
+(which you call a generall rule for Church-government:</hi>) for every particu<g ref="char:EOLhyphen"/>lar
+Office, and Ordinance in the Church, is for to effect ſome ſu<g ref="char:EOLhyphen"/>pernaturall
+end, to build up the ſoule in grace; now no Office, or
+Ordinance, can do that, but onely what is inſtituted by Chriſt to
+that end: For that place in the <hi>Corinthians</hi> I ſpake ſomewhat of
+it in the Obſervations, and I wonder he paſt it over without men<g ref="char:EOLhyphen"/>tioning;
+for theſe words, <hi>Let all things be done decently, and in order,</hi>
+is onely meant of ordering things in a Church already conſtituted,
+not of giving rules for the conſtitution of it; and the words im<g ref="char:EOLhyphen"/>port
+nothing leſſe: for what is order but a fit diſpoſing of things
+already made and conſtituted in their proper place, it being a word
+taken from martiall Diſcipline, where every man is ſet in his
+Rank and File according as occaſion is. Now you ſhall finde the
+Apoſtle applying of it ſo in the place quoted, for he ſpeaks it to re<g ref="char:EOLhyphen"/>gulate
+the exerciſe of Propheſie in that Church; and whereas they
+<pb n="11" facs="tcp:154994:8"/>
+were wont to uſe that Ordinance confuſedly, one ſpeaking when
+another ſpake, he tells them they might all ſpeak one by one, if
+they would but ſtay before each other had done; and then layes
+down this as a rule to direct in the exerciſe of this, and all other
+Ordinances; <hi>Let all things be done decently, and in order:</hi> I wonder
+how men that are not loſt in prejudice, that haue any intellectualls
+about them, can ſo miſtake this place, as to ſay its a generall rule
+of preſcribing a forme of Church-government left arbitrary to
+any people: ſeeing neither the ſignification of the words, nor the
+coherence of the place, hath the leaſt ſhadow of ſuch an interpreta<g ref="char:EOLhyphen"/>tion:
+where the fallacie of this Argument lies, I cannot as yet di<g ref="char:EOLhyphen"/>ſcerne,
+much leſſe where the abſurdity is which Maſter <hi>Prin</hi> hath
+charged it with.</p>
+            <p>
+               <hi>His third Argument (ſaith he) is that</hi> Revel. 11. 1, 2. <hi>we read
+of a meaſuring of the Temple, and</hi> Revel. 21. 1, 2. <hi>of the new Jeru<g ref="char:EOLhyphen"/>ſalem
+comming out of heaven, &amp;c.</hi> Ergo, <hi>There is a ſetled divine Church-government
+univerſally preſcribed to all Chriſtians in the new Teſtament:</hi>
+To this he ſaith nothing in anſwer, either to the interpretation of
+the place, or the application of it to this particular: onely he ſeems
+to retort: Firſt, That this is no better proofe of this Aſſertion,
+then the Angel of the Church of <hi>Epheſus</hi> is of our Prelates Lordly
+Hierarchie <hi>Jure Divino:</hi> but how, or wherein the parallel holds he
+ſhews not; yet this he thinks is a full Anſwer.</p>
+            <p>Secondly, (he ſaith) <hi>I might as well, yea more properly conclude thence
+That the Altar was meaſured as well as the Temple,</hi> Rev. 11. 1. (<hi>referring
+to the Jewiſh, not Chriſtian Church, which hath no Temple nor Altar:</hi>)
+Ergo, <hi>We ought to have an Altar, yea one ſet forme of Altars in all Chri<g ref="char:EOLhyphen"/>ſtian
+Churches under the Goſpel:</hi> Thus far he: What the ſenſe of
+theſe words is, I cannot as yet underſtand, much leſſe where the
+Argument lies; I never thought to have found ſuch a piece of ab<g ref="char:EOLhyphen"/>ſurdity
+fall from Maſter <hi>Prins</hi> mouth. His Argument will run thus,
+if put into forme: If the Temple was meaſured, then (as an abſur<g ref="char:EOLhyphen"/>dity)
+the Altar was meaſured, and if the Altar was meaſured,
+which was Jewiſh and not Chriſtian, then we ought to have an Al<g ref="char:EOLhyphen"/>tar,
+yea one ſet forme of Altars under the Goſpel: Who doubts
+but the Altar was alſo meaſured? for the Text ſaith it expreſly.
+Now by Altar was meant the worſhip, as by Temple the Church,
+and ſo its commonly uſed in all the new Teſtament; the Altar is
+put by <hi>Synechdoche,</hi>
+               <note place="margin">Piſcator in lo<g ref="char:EOLhyphen"/>cum.</note> for all the worſhip in the Goſpel, as the Temple
+for the Church; and here Maſter <hi>Prin</hi> gives a good encouragement
+<pb n="12" facs="tcp:154994:9"/>
+to the Papiſts for the maintenance of their Altars, if he will inter<g ref="char:EOLhyphen"/>pret
+theſe Scriptures literally. The Apoſtle ſaith, <hi>Heb. 13. 10. We
+have an Altar, &amp;c.</hi> And what can the Papiſts infer otherwiſe, if they
+will argue from the word, but that there may be Altars now? for
+that he ſaith, it refers to the Jewiſh, not Chriſtian Church, if he
+mean by referring, that there are uſed the tearms given to the wor<g ref="char:EOLhyphen"/>ſhip
+and Church of the Jews, its granted; but if (as his words
+carry it) he meanes that it is meant of the Jewiſh Church, and the
+meaſuring of their Diſcipline and worſhip, nothing can be more
+abſurd; becauſe that Church-State they were in was diſanulled,
+and new Ordinances of the Goſpel were brought in and the Book
+of the <hi>Revelation</hi> is not an Hiſtorie, but a Propheſie; Nay, the holy
+Ghoſt uſing the ſame words, and tearms of the worſhip and Ordi<g ref="char:EOLhyphen"/>nances
+of the old Teſtament, in expreſſing the worſhip of the new,
+gives a cleare ground to infer, that as their patterne was punctual<g ref="char:EOLhyphen"/>ly
+deſcribed, (<hi>viz.</hi> of the Temple and the Altar, &amp;c.) ſo alſo now is
+the worſhip and diſcipline of the new Teſtament ſignified by theſe
+expreſſions, as punctually preſcribed. What is that meaſuring of
+the Temple ſpoken of in <hi>Ezech.</hi> 40. and 41. Chap. but the exact de<g ref="char:EOLhyphen"/>ſcribing
+of the frame and faſhion of it, with the utenſils in it? and
+what muſt this meaſuring of the Temple and Altar here be, but
+the doing the ſame ſpiritually? That which is obſerved from this
+place of the <hi>Revelation,</hi> is, Firſt, That under the Goſpel there is a
+Temple and Altar; that is, a Church, and worſhip in it.</p>
+            <p>Secondly, That this was to be meaſured; that is, the exact pro<g ref="char:EOLhyphen"/>portion
+of it taken: now nothing can be meaſured without a rule,
+and the following words cleare it, for the holy Ghoſt ſpeakes of
+witneſſes, who give Teſtimony to it, and are ſlain for it: now who
+would be ſo uſed for that which was never written as a rule, but
+left arbitrary to every nation and kingdome? and that it was wor<g ref="char:EOLhyphen"/>ſhip
+they witneſſed to, is plaine both from the words, Temple and
+Altar, being never uſed for doctrine in the new Teſtament, but for
+diſcipline and worſhip; as likewiſe from the types and parallel of
+them, as compare <hi>verſ.</hi> 4. with <hi>Zach.</hi> 4. now what did <hi>Joſhua</hi> and
+<hi>Zerubbabel</hi> witneſſe to but the worſhip? Its Maſter <hi>Brightmans</hi> note
+upon the place, <hi>Pag.</hi> 347. The true Chriſtian Church is ſhaddowed
+out by the types of the old Temple, each part whereof was moſt
+exactly decyphered, and meaſured out in the old, by the comman<g ref="char:EOLhyphen"/>dement
+of God himſelfe, and that unto this end, that men might
+know that this houſe is framed by God, and is not made by mans
+<pb n="13" facs="tcp:154994:9"/>
+might and cunning; and that therefore they ſhould not take upon
+them any power to change matters at their pleaſure, as if the Di<g ref="char:EOLhyphen"/>vine
+Wiſdome had not provided ſufficiently to ordaine every thing
+in the fitteſt manner that could be: thus far he: So that yet, Rea<g ref="char:EOLhyphen"/>der,
+you may ſee that this Argument is not yet quelled, nor the
+abſurdity of it in any meaſure ſhewen, how ere the full Replyer
+boaſts, and gives it out to the world.</p>
+            <p>But yet to make this more evident, let this be an Argument:
+That which tends to the ſalvation, and edification of the ſoul, muſt
+be appointed by God, and ſo have the word for its rule; but ſuch
+doth diſcipline in a Church: <hi>Ergo,</hi> The Major is denied by none that
+I know: yet for inſtance, the Sacraments, Bread and Wine, and
+Water, have nothing in themſelves, or their own nature, to produce
+ſuch ſpirituall effects as they do, but onely becauſe Chriſt hath in<g ref="char:EOLhyphen"/>ſtituted
+them to that purpoſe, and it is that which gives them ſuch
+an efficacie, this was the great, and indeed unanſwerable Ar<g ref="char:EOLhyphen"/>gument
+the Non-Conformiſt alwayes: uſed againſt the Ceremonies,
+that the impoſers of them put a peculiar ſignificancie in them, and
+gave them as helps fit and apt to ſtir up the dull mindes of men the
+better to ſerve God; as is expreſt in the Preface of the Book of
+Common-Prayer: now, ſay they, none can give that as a help to
+build up a mans ſoule, or to ſtir him up to any ſpirituall thing,
+which in its owne nature hath nothing to produce ſuch an effect,
+unleſſe they can give theſe things power for the working of it; and
+nothing but what comes from God will carry to God.</p>
+            <p>For the Minor, or aſſumption, that the diſcipline of the Church
+is for ſalvation, the Apoſtle is cleare in 1 <hi>Cor.</hi> 5. 5. ſpeaking of Ex<g ref="char:EOLhyphen"/>communication,
+one of the chiefe parts of diſcipline, ſaith, It is for
+the ſalvation of the ſoule; now what is ſaid of that may be ſaid of
+every part of Diſcipline, every part being <hi>homogeneall,</hi> and of the
+ſame nature: Ile end this with the ſaying of Maſter <hi>Brightman,</hi> on
+<hi>Rev. 2. p. 50. The Government of the Church is common to all times and places,
+and is not permitted to be at the arbitrement of men to follow what they liſt;
+but alwayes in Reforming Churches we muſt have recourſe to the firſt begin<g ref="char:EOLhyphen"/>nings,
+unto the which as our onely rule we muſt call back what ever ſtrayeth
+from it, and that they are not to be turned and tuned according to the croo<g ref="char:EOLhyphen"/>kedneſſe,
+and jarring ſounds of ſucceeding Churches.</hi>
+            </p>
+            <p>
+               <hi>In the next place, (ſaith he</hi>) He pretends my third Querie contra<g ref="char:EOLhyphen"/>dicts
+the firſt, becauſe I ſuppoſe a Church: government may be conſonant to
+<pb n="14" facs="tcp:154994:10"/>
+Gods word in the generall, which is not particularly preſcribed in it: a pret<g ref="char:EOLhyphen"/>ty
+fancie (quoth he) as if nothing could be conſonant to Gods word, which is
+not particularized or verbally injoyned in it.</p>
+            <p>To which I anſwer, paſſing by many bitter expreſſions that fol<g ref="char:EOLhyphen"/>low
+it, that things to be done in or about the worſhip of God, are
+either matters of circumſtance, as garments, place, time, &amp;c. ſuch as
+theſe come under generall rules of the word, ſuch as that 1 <hi>Cor.</hi> 14.
+To let all things be done decently, and that they be conſonant to
+the word, is ſufficient: Or elſe; ſecondly, Things are ſuch as par<g ref="char:EOLhyphen"/>take
+of the nature of worſhip, and are to edifie, and to attaine a
+ſpirituall end; ſo nothing is conſonant to the word, but what ei<g ref="char:EOLhyphen"/>ther
+is punctually expreſt, or can be deduced by neceſſary &amp; imme<g ref="char:EOLhyphen"/>diate
+conſequence, and in this ſenſe its not ſufficient that its no
+where denied, unleſſe it be ſome where commanded; and the rea<g ref="char:EOLhyphen"/>ſon
+is this, becauſe matters of inſtituted worſhip (as Divines call
+it) depend onely on the will of God, and there is no neceſſity in
+the nature of the things for their appointment: As for example,
+why God would be worſhipped by Sacraments, why excommuni<g ref="char:EOLhyphen"/>cation,
+or other acts of diſcipline ſhould be appointed as a meanes
+to ſave the ſoule; there is no reaſon to be given from the thing, but
+onely Gods will; now that is onely expreſt in the word, or natural<g ref="char:EOLhyphen"/>ly
+to be drawne from it: as for things civill, ſuch as he inſtanceth,
+as temporall Magiſtrates, Parliaments, &amp;c. Its left by God to every
+Common-wealth to ſit themſelves, and diſpoſe of things, as may
+be moſt for their peace and profit; and conſonancie to the Morall
+and Politick rules of juſtice and equity, is enough to warrant theſe
+undertakings.</p>
+            <p>From this he paſſeth to my Anti-quaeries: Firſt, If no preſcript forme (of
+Church-government) in the word, why not Epiſcopacie, eſpecially regulated
+and moderated, as well as Presbytery?</p>
+            <p>To which he Anſwers: If you meane it of Lordly Epiſcopacie, there are
+abundant Texts againſt it, if of moderated and regulated Epiſcopacie, the
+ſame with Presbytery; if the Parliament by the Synods advice unanimouſly
+eſtabliſh, &amp;c. I ſhall readily ſubmit to it, and why not you and all others?</p>
+            <p>In which, firſt, let all the world obſerve: That Maſter <hi>Pryn</hi>
+grants <hi>that Presbytery is but a regulated Epiſcopacie:</hi> Oh noble hearted
+Saints, and well bred Chriſtians of <hi>England,</hi> who have felt ſo much
+the power of Epiſcopacie, which was the Lion let go about without
+its chaine, think what Presbytery will be, which is but the ſame
+<pb n="15" facs="tcp:154994:10"/>
+Lion in a fetter; if ever it break looſe, with what redoubled might
+will it tear and devoure? Epiſcopacie to be cut off root and
+branch was one part of that firſt noble Petition of this famous Ci<g ref="char:EOLhyphen"/>ty,
+ſigned with 15000. hands; and doth not that reach Maſter
+<hi>Pryns</hi> Presbytery? This was the great ſuggeſtion both in Parlia<g ref="char:EOLhyphen"/>ment
+and elſewhere, among the judicious and godly, that if they
+ſhould cut the Biſhops Locks, a little regulate them, their hair
+would ſoon grow again, and pull down the houſe of the Com<g ref="char:EOLhyphen"/>mon-wealth
+about us all: in a Presbytery there is no more, accord<g ref="char:EOLhyphen"/>ing
+to Mr. <hi>Pryns</hi> own judgement; the Biſhops nails will be cut a little
+to grow out the faſter, to claw the ſorer; or rather, the Biſhops
+power in a Presbytery is dilated from 26. unto 600. what one could
+not reach to do, you may be ſure many will; and as the Biſhops
+would call men <hi>Puritans</hi> and <hi>Non-Conformiſts,</hi> and ſo perſecute them;
+ſo will the Presbytery call men <hi>Schiſmaticks, Hereticks, Antinomians,
+Separatiſts,</hi> and do the like. And whereas it may be ſaid, The Presby<g ref="char:EOLhyphen"/>tery
+will be godly men: I Anſwer, ſo were the firſt Biſhops of <hi>Rome</hi>
+in the beginning: and theſe which are now good may leave
+the government next to as bad men as may be, and then the
+miſery will be greater, by how much the multitude that have
+power are greater.</p>
+            <p>I do not think the Pope is called Antichriſt ſo much becauſe of
+his Temporall power, as becauſe of his taking ſuch power of juriſ<g ref="char:EOLhyphen"/>diction
+over the Conſciences of men, preſcribing for them Laws to
+walk by, and puniſhing men for diſobeying: Neither was the Epi<g ref="char:EOLhyphen"/>ſcopacie
+unlawfull ſo much becauſe of their Lordſhips, as for their
+ſupream power they arrogated over the Church, and Conſciences
+of men, and becauſe there were no footſteps for it in the word.
+<hi>Whereas he ſaith, if the Parliament and Synod ſhall eſtabliſh a Presbytery,
+he ſhall readily ſubmit, and asketh why not we?</hi> Let him know, if he can
+ſell away his Judgement and Conſcience, we cannot; yet though
+we cannot go againſt our Conſcience to obey actively, we have lear<g ref="char:EOLhyphen"/>ned
+to ſubmit to Authority paſſively, if they can in Conſcience take
+any ſuch courſe with us.</p>
+            <p>2. Antiquerie was, if Church-government be to be ſuited to
+States, whether Politicians are not more fit to conſult about it, and
+why is an Aſſembly of Divines called?</p>
+            <p>
+               <hi>To which he anſwers:</hi> That his Poſition is, that Church-government
+ought to be ſuitable to the Word, as alſo to the Civill State; and therefore
+<pb n="16" facs="tcp:154994:11"/>
+               <hi>Polititians and Stateſmen, and divines are to be conſulted with, &amp;c.</hi>
+               <note place="margin">In this An<g ref="char:EOLhyphen"/>ſwer Maſter <hi>Pryn</hi> give, the greateſt ground to hold up the Biſhop pow<g ref="char:EOLhyphen"/>ers in States, and ſo of Mi<g ref="char:EOLhyphen"/>niſters alſo to be Stateſmen, as can be, if the civill power and Eccleſiaſticall have ſuch a dependence on each other that the one muſt be ſuit<g ref="char:EOLhyphen"/>ed to the o<g ref="char:EOLhyphen"/>ther.</note> If
+by ſuiting to States he meanes that the government of Chriſts
+Church muſt be ſuited to every forme of civill government; then
+there muſt be as many ſorts of Church-government as there are of
+civill, which is the greateſt confuſion that can be; and then you
+need not put in that clauſe, <hi>that it be ſuitable to the word,</hi> for that is
+ſuitable to the word which ſuits the State; for either there is but
+one government in the word ſet down to all, and then it is no mat<g ref="char:EOLhyphen"/>ter
+where it ſuit the State, for that muſt be followed what ever
+States ſay, or elſe that government which ſuits the State is ſuitable
+to the word, and then what need ſuch calling and urging the pat<g ref="char:EOLhyphen"/>terne
+of the beſt reformed Churches? what have we to doe with a
+Scottiſh government, or French, or any, ſeeing our civill government
+diſſers from both? this conceit is the greateſt doctrine of Liberty
+in the world. If by ſuiting of States he meanes that the govern<g ref="char:EOLhyphen"/>ment
+of Chriſt ſhould be no diſturbance to the proceedings or
+peace of a State, its granted; and ſo the congregationall way is as
+ſuitable to States, as Presbyterie, or any other government in the
+world.</p>
+            <p>
+               <hi>To the third queſtion he anſwers,</hi> That it is more fit that the State
+ſhould be ſubject to Chriſts rule then Chriſt to it, but this queſtion, ſaith he,
+is beſides the queſtion, untill you prove a ſet unalterable Government, <hi>which
+I have done ſufficiently;</hi> yet to ſay ſomewhat to what he ſaith in the fol<g ref="char:EOLhyphen"/>lowing
+words, whether Chriſtian Princes, Parliaments, Synods, <hi>under the
+Goſpel</hi> have not power to bind all the Churches <hi>under their dominions</hi>
+as the major part of an Independent Church <hi>to bind their own members.
+To which I anſwer.</hi>
+            </p>
+            <p>Firſt, if majoritie be conſidered abſolutely in it ſelf; that where
+there is the greater number or greater part of the Catholick
+Church, they may make Laws for other Churches; then, another
+kingdome if it be greater then this, and the numbers of the Church
+more, may make Eccleſiaſticall Laws for this kingdome, yea then
+that muſt call in all the Churches in the world in every matter. For
+where there is more, there is authoritie; yea onely the Catholick
+Church muſt rule, and make laws for it ſelf.</p>
+            <p>Secondly, the reaſon why the major part of a congregation binds
+(yet onely in particular actions which concerne themſelves, not in
+preſcribing a rule of Church government unto others) is, be<g ref="char:EOLhyphen"/>cauſe
+of the promiſe which God hath made with them. <hi>Matth.</hi> 18.
+<pb n="17" facs="tcp:154994:11"/>
+where two or three are gathered together in my Name, I will be in
+the midſt, ſaith Chriſt, when he ſpeaks of the Churches cenſuring
+an offender; and this is ſtrength enough to every action, and we
+need not fear what the matter is that is to be handled, when Chriſt
+will be preſent, we have no ſuch promiſe to any ſocietie elſe.</p>
+            <p>
+               <hi>As for the latter part of the</hi> quaere (<hi>ſaith he) that the Saints
+think Chriſt is King alone over his Churches, and hath not left
+them to ſubſtitutes,</hi> and the politick conſiderations of men to be governed
+by: if (<hi>ſaith he</hi>) he means it onely of matters of faith it may paſſe as tolera<g ref="char:EOLhyphen"/>ble;
+but if he means of externall Eccleſiaſticall government, diſcipline, or or<g ref="char:EOLhyphen"/>der
+in the Church, he muſt renounce his oath of Allegeance, his late Proteſta<g ref="char:EOLhyphen"/>tion,
+Nationall vow, and Covenant, &amp;c.</p>
+            <p>In which obſerve two things. Firſt, that to hold Chriſt is King
+in matters of faith and internall government over mens ſouls may
+paſſe but as a tolerable thing; how to paſſe by this expreſſion with a
+leſſe character then ſleighting Chriſts kingly office I know not; <hi>bone
+Deus!</hi> and good Chriſtians, to what paſſe is Religion come? if this
+muſt paſſe but as a tolerable doctrine, that Chriſt is ſole King of
+ſouls, and is it not undeniably without controverſies, as true as
+God himſelf? and is it not horrid blaſphemie to have the leaſt
+thought to the contrary? the truth is, I wondred when I ſaw ſuch a
+miſtake fall from Mr. <hi>Prynnes</hi> pen; its no marvell if other things be
+intolerable to paſſe, if this be but tolerable.</p>
+            <p>Secondly, to hold Chriſt King in externall government, is againſt
+the Oath of Allegiance, &amp;c. who told you that the meaning of any
+Covenant or Proteſtation intends any ſuch thing? We cannot think
+the Parliament would be ſo injurious to Chriſt as to take away any
+of his Kingly office from him, as Mr. <hi>Prynne</hi> would needs affirme;
+we doubt not but they have learnt to give up the Scepter and ſu<g ref="char:EOLhyphen"/>preame
+power of governing the Church to Chriſt, as Chriſt hath
+given the ſupreame power of the Common-wealth to them. In
+what clauſe of the Proteſtation, or Covenant doth this lie, I never
+found it yet. I know none that ever proteſted that Chriſt was not
+ſole King of the Church, and the preſcriber of laws to his Church:
+ſhew me the clauſe, and I will unſubſcribe to that particular, as be<g ref="char:EOLhyphen"/>ing
+moſt derogatory to the honour of our heavenly Prince and
+Lord Jeſus Chriſt.</p>
+            <p>
+               <hi>In his anſwer to my ſecond</hi> quaere, (<hi>ſaith he</hi>) he firſt<note n="*" place="margin">Charity would have ſaid weakly.</note> wilfully miſre<g ref="char:EOLhyphen"/>cites
+it, and then infers a blind obedience from it to all ſuperior commands,
+<pb n="18" facs="tcp:154994:12"/>
+be they never ſo unjuſt or contrarie to the Word, whereas my queſtion onely
+ſpeaks of lawfull decrees, and conſonant to the Word, &amp;c. to which every
+Chriſtian is bound in conſcience to ſubmit, <hi>Rom.</hi> 13. 1. to 6. 1 <hi>Pet.</hi> 2. 14, 15.
+<hi>Tit.</hi> 3. 1. If any man deny this, he muſt renounce, <hi>not onely</hi> his Chriſtia<g ref="char:EOLhyphen"/>nitie,
+but his Allegiance and humanitie too.</p>
+            <p>For anſwer to this, I will not enter into that common place how
+farre the power of Magiſtrates may reach in matters of Religion,
+to the binding the conſcience, though I wiſh it were rightly ſtated,
+that Chriſt might not loſe his due, as they might not theirs. Yet
+I deſire humbly to propound one argument to Mr. <hi>Prynne,</hi> which
+hath a little puzled my thoughts: and I deſire him not to miſ-in<g ref="char:EOLhyphen"/>terpret
+it, as if I went to undermine the priviledge of Parliament,
+if the Magiſtrate muſt be obeyed, as having power to command in
+matters of Worſhip, it is either, <hi>qua</hi> a Magiſtrate, or as a Chriſtian
+Magiſtrate: if as a Magiſtrate, it holds in all, as well Heathen as
+Chriſtian power, being equall, alike in both, as they are Magiſtrates:
+for Civill power is not, as the Papiſts ſay, founded in Grace or Re<g ref="char:EOLhyphen"/>ligion,
+but in the compact and agreement of the Common-wealth.
+whatever belongs to a man, as a man, belongs to every man, be he
+rich or poore; whatever belongs to a Magiſtrate, as a Magiſtrate,
+belongs to every Magiſtrate, be he Chriſtian or Heathen; and then
+the Heathen Magiſtrates Subjects are as much bound in Conſcience
+to obey what Worſhip they ſet up, as Chriſtian Subjects are to obey
+theirs whom they are under.</p>
+            <p>If as a Chriſtian Magiſtrate, then ſhew your rule, theſe Scrip<g ref="char:EOLhyphen"/>tures
+<hi>Rom, 13. &amp;c.</hi> are ſpoken in generall of power limited to none,
+nay they prove directly againſt you; for the Magiſtrates, the Apo<g ref="char:EOLhyphen"/>ſtles
+and Primitive Saints lived under, were Heathens, not Chriſti<g ref="char:EOLhyphen"/>ans:
+Againe, if as Chriſtian, then he muſt be obeyed, becauſe he
+commands, or for what he commands, either becauſe of his owne
+power, or the authority of the things themſelves; if for the for<g ref="char:EOLhyphen"/>mer,
+then its <hi>qua</hi> a Magiſtrate, and ſo it belongs to all, his Authori<g ref="char:EOLhyphen"/>ty
+not ariſing from his Chriſtianity, but his Magiſtracie: if for the
+latter, then its not the Magiſtrate, but the Word of God that muſt
+be obeyed; now that muſt be ſeen before it can be followed; there
+is no greater eating Worme in the Power of Magiſtracie then to
+found it in Religion, for thence the Jeſuites infer undenyably, if
+Government belong to Magiſtrates, as Chriſtian, as religious, then
+he that is not a Chriſtian Magiſtrate, is an uſurper, and may be depo<g ref="char:EOLhyphen"/>ſed
+<pb n="19" facs="tcp:154994:12"/>
+at pleaſure; nay indeed he is no more then a private man, when
+once excommunicated, and all their enſuing commands are not to
+be obeyed: yea it will come to this, that the Church hath power over
+States and Kingdomes, for the Church is to deale in all matters of
+Religion moſt powerfully, now that is to get States to be their ſer<g ref="char:EOLhyphen"/>vants,
+and exerciſe what power the Church pleaſeth upon offen<g ref="char:EOLhyphen"/>ders;
+beſides, if they have power to command, I have no power
+actually to obey, unleſſe my conſcience be convinced of the lawful<g ref="char:EOLhyphen"/>neſſe
+of it, for <hi>whatever is not of faith is ſin;</hi> to the reaſon I urged
+for this, he anſwers nothing yet further to confirme him.</p>
+            <p>1.<note place="margin">Its neither a humane nor religious act that is not done with underſtand<g ref="char:EOLhyphen"/>ing. God would not have us to be<g ref="char:EOLhyphen"/>lieve him, without wee ſee the ground of it in the Word. All Proteſtant Writers give to every man <hi>judician pri<g ref="char:EOLhyphen"/>vatae diſcretio<g ref="char:EOLhyphen"/>nis,</hi> they give the teſtimony of mans con<g ref="char:EOLhyphen"/>ſcience, as one way wherby we know the Word of God to be the Word.</note> For any to require a man to practiſe that in the Worſhip of
+God, upon paine of Schiſme, arrogancie, &amp;c. before a man ſeeth
+it to be commanded of God, is to require more then God requires,
+who would have every man practiſe according to his light; in natu<g ref="char:EOLhyphen"/>rall
+Worſhip indeed God requires obedience of all alike, becauſe
+they all once knew how to ſerve God: God gave <hi>Adam</hi> for all his,
+and men have loſt them by their owne default, and though they
+ſhould never heare the Word, yet they ſhall be condemned for not
+ſerving God in that way, for it was ingraven in every mans heart
+naturally, but its not ſo in inſtituted Worſhip, which depends meer<g ref="char:EOLhyphen"/>ly
+on Gods will, for in this God requires we ſhould ſearch to know,
+but will never puniſh any man for the not obeying that he ſearcheth
+after, prayeth God to reveale, and yet cannot find it to be the mind
+of God; much leſſe ſhould men force men, (who not only have no
+light in the thing, but their light is againſt it,) to obey what they
+conceive is the mind of God.</p>
+            <p>2. That Doctrine that puts upon any man an inevitableneſſe of
+ſinning, may not be admitted, but ſuch doth this, that men muſt o<g ref="char:EOLhyphen"/>bey
+what ſuperiours command in the Worſhip of God, though
+their judgements be againſt it: and the <hi>minor</hi> is proved thus by in<g ref="char:EOLhyphen"/>ſtance,
+to go againſt my light and conſcience is ſin, and to diſobey
+the Magiſtrates commands is ſin, and one I muſt doe; yea its the
+greateſt hypocriſie that can be, to follow that authority commands,
+which yet mans conſcience thinks is not to be done: beſides, what
+do I know, but the light I have is from the Spirit of God? and if I
+go againſt it, I am guilty of reſiſting and grieving the Spirit, which
+is the greateſt ſin that can be.</p>
+            <p>3. It is the greateſt tyranny over mens ſouls that can be: what can
+be greater then to make other mens judgments the rule of my con<g ref="char:EOLhyphen"/>ſcience,
+<pb n="20" facs="tcp:154994:13"/>
+to ſweare obedience to that my underſtanding is againſt:
+ſurely its the greateſt ſoul-inquiſition that can be; however Maſter
+<hi>Pryn</hi> ſaith, <hi>I infer a blind obedience from his Poſition,</hi> I know not how
+to infer otherwiſe, for that muſt needs be blind obedience, when
+a man muſt obey (take it in what you will of this kind) that which
+he ſeeth not, either expreſt, or any way warranted by the Word;
+its to put men above God, at leaſt in this place: for if I muſt obey,
+becauſe higher Powers judge it ſo, their power muſt be the rule of
+my conſcience, which alone is ſubject to the Word; and its the
+greateſt baſeneſſe of ſpirit, it diſ-ennobles mens ſpirits, hinders, and
+utterly cruſheth the growth of any ones gifts; for if other mens
+judgments muſt be my rule, and I ſin in not ſubmitting to it, what
+need any man ſtudy to find out truth, or with the noble Bereans,
+to ſearch the Scripture, to ſee whether theſe things be ſo? give
+men eyes, and they will ſoon follow you, elſe never call for ſuch
+unlimited obedience.</p>
+            <p>Againe, what if the Parliament and Synod ſhould erre in ſetting
+up a Government, muſt every one be bound to joine with them?</p>
+            <p>To which he anſwers; <hi>Firſt, ſuch an overſight is not to be preſumed
+untill it be actually committed; and its neither Chriſtian, charitable, nor any
+way of Chriſt, thus to prejudge their reſolutions.</hi> And yet you to preſume
+to determine what the Congregationall way is, and cenſure what
+effects will follow, though you profeſſe you know not what they
+hold, and never ſaw the way exerciſed; we know as much of Pres<g ref="char:EOLhyphen"/>byteriall
+and its effects, as ever any can ſpeak of the Congregatio<g ref="char:EOLhyphen"/>nall,
+therefore leave off your ſcandalous Titles of this way, which
+yet you never ſaw did commit any thing worthy of them.</p>
+            <p>As for your ſufferings you ſpeak of, I never mentioned them as
+your ſhame, though you have made the honour of them leſſe then
+the World thought it was, in that you ſay, you ſuffered not for op<g ref="char:EOLhyphen"/>poſing
+any Ceremony legally eſtabliſhed, or the Biſhops calling,
+but their Lordly power; however you ſuffered, (and now we are
+glad we know for what you ſuffered) yet holy Maſter <hi>Burton,</hi> for
+his part, confeſſeth the contrary, that he ſuffered for preaching a<g ref="char:EOLhyphen"/>gainſt
+the Biſhops Government, and the Ceremonies. I doubt not,
+but if ever God ſhall call us to ſuffer for this truth, we ſhall have as
+much comfort and ſtrength in ſtanding for the Prerogative of
+King Jeſus, as ever you had for maintaining any Statute-Law
+whatſoever.</p>
+            <p>
+               <pb n="21" facs="tcp:154994:13"/>
+               <hi>In the fifth</hi> (ſaith he) <hi>he grants, that Independency will overthrow all
+Nationall Churches and Synods. 1. Is it not even a turbulent, dangerous,
+Schiſmaticall unquiet, (that I ſay not inſufferable) Government, which will
+admit no equall nor corrivall?</hi> and thus he goes on with his uncivill ca<g ref="char:EOLhyphen"/>lumnies,
+for many lines. But <hi>bona verba quaeſo,</hi> if you underſtand
+the words thus, that in the judgments of theſe that are of this
+way, there can be no Nationall Churches according to the Word,
+ſo it overthrowes it; but yet only <hi>in intellectu,</hi> as I may ſay, they
+cannot think it to be a Goſpel Inſtitution of a Church; as the hol<g ref="char:EOLhyphen"/>ding
+one opinion overthrowes another, ſo is this, that all Natio<g ref="char:EOLhyphen"/>nall
+Churches will be overthrowne by your Congregationall way,
+and this ſenſe (which I meane) deſerves not ſuch unworthy Lan<g ref="char:EOLhyphen"/>guage;
+but if you take it (as it ſeems you do) that the Congregatio<g ref="char:EOLhyphen"/>nall
+way cannot live by the other Government, or in a Nation
+which is a Church, but it will endeavour by force and armes to
+extirpate, overthrow, unchurch them that diſturbe their peace,
+ſlay their members, &amp;c. It hath not as yet conceived ſuch a
+thought, and its contrary to its nature to bring it forth; there is
+nothing ſo deteſtable to our judgements, and, I doubt not, that
+ſhould be more contrary to our practice, then the diſturbing the
+peace of a Nation, what ever ſcandall men faſten on us.</p>
+            <p>
+               <hi>To the ſixth, he ſayes,</hi> I returne no anſwer, but plainly yeeld that
+there was never any Independent Church in any age or nation whatever to<g ref="char:EOLhyphen"/>tally
+converted to the Chriſtian faith, &amp;c.</p>
+            <p>If Mr. <hi>Pryn</hi> underſtand the words thus, That the congregation<g ref="char:EOLhyphen"/>all
+way hath not beene ſet up as the government of any one Na<g ref="char:EOLhyphen"/>tion,
+its granted; but that there was never a congregationall
+Church in any one nation is denied, and it will put him to it to
+make it out: Nay, for the firſt foure or 500. yeeres I durſt chal<g ref="char:EOLhyphen"/>lenge
+him to produce any other then particular Churches that had
+the power of cenſures within themſelves; <hi>Juſtin</hi> and <hi>Irenaeus</hi> knew
+no kinde of Church in the world which did not aſſemble on the
+Sabbath; and as learned Mr. <hi>Baines</hi> proves out of <hi>Euſeb. l.</hi> 3. 44.
+<hi>lib.</hi>
+               <note place="margin">See <hi>Bains</hi> di<g ref="char:EOLhyphen"/>oceſan triall.</note> 4. <hi>cap.</hi> 21. and <hi>lib. 2. cap.</hi> 6. that Churches at firſt were but Pa<g ref="char:EOLhyphen"/>riſhes,
+and Pariſhes within Cities, and he quotes Saint <hi>John lib.</hi> 3.
+<hi>cap.</hi> 23. ſaying to the Biſhop, <hi>Redde juvenem quem tibi ego &amp; Chri<g ref="char:EOLhyphen"/>ſtus,
+teſte Eccleſia tua, tradidimus. Tertullian. Apol. c.</hi> 39. knew no
+Churches which had not power of cenſures within themſelves, and
+we hold no more. Saith <hi>Cyprian lib. 4. ep.</hi> 1. Schiſmes were ſaid to
+<pb n="22" facs="tcp:154994:14"/>
+be from hence, <hi>Quod Epiſcopo univerſa fraternitas non obtemperat.</hi> And
+the ſame Author, <hi>Epiſt. 55. tota fraternitas,</hi> i. e. <hi>unius congregationis
+tota multitudo, ex qua componitur Eccleſia particularis. Sabino de uni<g ref="char:EOLhyphen"/>verſae
+fraternitatis ſuffragio Epiſcopatus fuit delatus.</hi> And againe, <hi>lib.</hi> 1.
+<hi>epiſt. 47. 58. 68. Eccleſiae igitur circuitus non fuit major, quam ut Epiſ<g ref="char:EOLhyphen"/>copatus
+totam plebem fuam in negotiis hujuſmodi convocare potuerit.</hi> He
+which is skil'd in Antiquity, I doubt not but may bring forth mul<g ref="char:EOLhyphen"/>titudes
+of ſuch teſtimonies as theſe; all that we ſay is, that a Church
+is a particular congregation of Saints, having power of cenſures
+within themſelves, and exerciſing all the Ordinances of Chriſt.
+Now this Antiquity proves to be in the primitive times, even many
+yeeres after the Apoſtle; but ſuppoſe the contrary, that there
+could not any ſuch footſteps of this way be found in Antiquity,
+yet have we no ground to thinke its not true; great was the Apo<g ref="char:EOLhyphen"/>ſtacie
+of the Churches from the Apoſtles doctrine; that truth
+hath beene loſt for a long time among the moſt. It is a great mer<g ref="char:EOLhyphen"/>cy
+that ſince that defection from the pure wayes of Chriſt to An<g ref="char:EOLhyphen"/>tichriſt,
+there have beene any glimmerings of light preſerved, any
+in ſecret that might worſhip him after his owne minde, that any
+thing hath beene refined and reſtored to its primitive inſtitution;
+yet all times are not alike, now God hath in an abundant cleere
+manner ſo ſcattered the miſts of Popery and darkneſſe, hath revea<g ref="char:EOLhyphen"/>led
+many truths which formerly lay hid. Unhappy we, if we yet
+ſee not more then the godly formerly did, who but then came out
+of Antichriſtian darkneſſe! God is now opening the myſteries of
+the Goſpell, diſcovering the truths that concerne Chriſts Kingly
+Office, &amp; why may not this be one, though never diſcovered before; or
+if diſcovered, yet cruſht and made light of. The opinion of the
+thouſand yeers which was antiently generally condemned for a
+Hereſie, is now imbraced as a precious truth, and maintained by
+many learned lights, as <hi>Alſtede, Mede,</hi> Doctor <hi>Twiſſe,</hi> Doctor
+<hi>Stoughton,</hi> with divers others. That is ancient which is primitive,
+and to be found in the Scriptures; neither are the names of theſe
+that either have beene of this judgement, or have or doe practiſe
+it of meane and contemptible reputation, but they have given ſuffi<g ref="char:EOLhyphen"/>cient
+teſtimony to the world of their learning and godlineſſe, as
+learned <hi>Baines, Ames, Cotton,</hi> with the many in theſe times, both in
+New-England, here, and other places, men not a jot behinde any
+of their Predeceſſors in the knowledge of the myſteries of the
+<pb n="23" facs="tcp:154994:14"/>
+Goſpel; yea, anointed with the gifts of the Spirit above moſt of
+their fellows. <hi>Notwithſtanding that you ſay, that for any reverend godly
+perſon, who now contends about this new Modell, though I reverence their
+perſons, and judgements too in other things, yet I cannot ſubſcribe to them
+in this new dangerous by way.</hi> Yet thoſe men cannot think you reve<g ref="char:EOLhyphen"/>rence
+dither their perſons or judgements, for then you would not
+be ſo raſh as to condemn what they hold, before you knew what it
+was, or whether it was ſo or no; for either you think them judici<g ref="char:EOLhyphen"/>ous
+and conſcientious, or not: if the former, then you would judge
+what they hold they have ground for: if the latter, that then they
+durſt not practiſe that is generally oppoſed without a clear warrant
+(at leaſt in their own judgements) from the Scriptures. Neither do
+they deſire you ſhould ſubſcribe to their judgements in this or any
+thing elſe: yet this is your duty, to give them the right hand of fel<g ref="char:EOLhyphen"/>lowſhip
+a while, and not rail on, and condemn with all bitterneſſe
+the way they practiſe, untill you had heard what they could ſay
+for themſelves.</p>
+            <p>In the ſeventh (ſaith he the grants, That the Law of nature that teacheth
+men to unite themſelves into one nationall State, or civill Government, doth
+likewiſe teach them to joyn and ſubject themſelves to one nationall Church,
+and to nationall Synods, and Parliaments in point of Church-government.</p>
+            <p>Let any one judge that reads what I anſwered, whether there be
+ſo much as a ſhadow for ſuch a miſ-recitation; the ſunne of my
+Anſwer was this: That the Law of nature teacheth every man to
+joyn himſelf to ſuch a particular Society, where every man may
+have his perſonall vote in every thing that concerns him, as well as
+any one, or a Company to ſet up either one, or more over them, to
+whoſe judgement they will ſubmit, and who ſhall be the <hi>Vltinum</hi>
+of all their Appeals and Counſels. And that there is as great a ſu<g ref="char:EOLhyphen"/>tableneſſe
+to the Law of Nature in a Democraticall, and Ariſtocra<g ref="char:EOLhyphen"/>ticall
+Government (of which the Congregation conſiſts) as in a
+Monarchicall, or <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Ariſocraticall. The Liberties of Saints and
+Subjects differ; though Subjects may put theirs into the hands of
+others, the Saints cannot theirs without ingratitude for Chriſts
+purchaſe of them, and diſloyalty to his Soveraignty, who alone is
+King of his Churches: for if I give up my power unto others, I
+muſt ſtand to what they determine, what ever my Conſcience be to
+the contrary; and what if they crie? <hi>He grants that the Magiſtrate
+hath not ſtill power over mens Conſciences, is over mens bodies: yet he ſaith,
+<gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="22" facs="tcp:154994:15"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="23" facs="tcp:154994:15"/>
+                  <pb n="24" facs="tcp:154994:16"/>
+that God hath enjoyned us to be ſubject to every lawfull Ordinance of man,
+and not repugnant to the Word, &amp;c.</hi> To which I anſwer: What if the
+commands be repugnant to direct Conſequence of Scripture,
+though not againſt any expreſſe Texts? And what if a man thinks
+it repugnant to the Word, muſt a man obey it? that which to me is
+repugnant to the Word, is my ſin if I do it: Beſides, what if it
+ſhould be repugnant? Either you muſt ſay the Magiſtrate can com<g ref="char:EOLhyphen"/>mand
+nothing repugnant to the Word, and therefore muſt be o<g ref="char:EOLhyphen"/>beyed;
+or elſe a man muſt ſee it in his own judgement not to be re<g ref="char:EOLhyphen"/>pugnant
+before he can obey it. God forbid a tittle of the power
+God hath given Magiſtrates ſhould be taken from them, yet I
+would things were ſo ſtated, that Chriſt might not loſe his Prero<g ref="char:EOLhyphen"/>gative:
+Maſter <hi>Prin</hi> in his other twelve Queries, and the latter end
+of this, labours to perſwade the Parliament, that theſe whom he
+cals Independents, are againſt the power of Parliaments, on pur<g ref="char:EOLhyphen"/>poſe
+to make them odious in their eyes. But let that honourable
+Aſſembly know, that what ever power the Principles of Presbytery
+will give them, the Congregationall way will give much more:
+neither have the Parliament truer friends then they, who will be
+more willing to venture their lives, and ſacrifice all they have for
+them; onely this is deſired by them, (which they know is the deſire
+of that Honourable Aſſembly) that the Rights and Liberties Chriſt
+hath purchaſed by his own precious blood, and left the Saints as
+his laſt Legacie, may not be taken away by the ſecular power; as
+that the ſecular power might not be encroached on by Chriſtian
+Liberty. After this, he goes on to juſtifie his bitter and unchriſtian
+paſſage, in comparing our Church-meetings to the Conventicles of
+of the <hi>Arrians, Donatiſts, &amp;c.</hi> Could you finde no ſmoother or lo<g ref="char:EOLhyphen"/>vinger
+compariſon to ſcandalize us by? Can no other title be bad
+enough, but a Conventicle? A name given by the Biſhops, and all
+their crew, to all the godly meetings of the Saints. Take heed, that
+you that are ſo skilled in the Biſhops language, come not to take
+up their weapons too; what do you but in one word cal us hereticks,
+Schiſmaticks, and the worſt of men? For this you ſay in the Mar<g ref="char:EOLhyphen"/>that
+35. <hi>Eli. c.</hi> 1. none are Conventicles but the meetings of Hereticks,
+and Schiſmaticks, who ſeparate themſelves, &amp;c. Though your paſ<g ref="char:EOLhyphen"/>ſion
+would not, yet your charity might have given us better lan<g ref="char:EOLhyphen"/>guage.
+You and your Party are very full of theſe tearms, though
+you nor they ever define what Schiſme or Hereſie is. We deſire,
+<pb n="25" facs="tcp:154994:16"/>
+and challenge you to tell us what Hereſies we have broached in
+theſe Conventicles? In what Fundamentalls do we differ from you
+which is Hereſie? What Acts againſt the power of godlineſſe can
+you manifeſt againſt us? What Treaſons have we plotted againſt
+the Parliament in our meetings? Should I call you Heretick, and
+Schiſmatick, &amp;c. becauſe your judgement is Presbyteriall, would
+you take it well? The Lord learn you meekneſſe, and a more ſober
+Spirit, not to tax ſo highly, and ſlander ſo inſufferably, unleſſe you
+make it out that we are ſuch.</p>
+            <p>To the eighth, he ſaith, <hi>I anſwer negatively,</hi> and well I may.</p>
+            <p>My firſt Anſwer was, that the nationall Church of the Jews can<g ref="char:EOLhyphen"/>not
+be a pattern for us now, becauſe the Covenant of the Goſpel is
+not made with any one particular nation, but to all in every nation
+that beleeve; you have no promiſe nor Propheſie of any nation to
+be holy to God, but the Jews when they ſhall be called again.</p>
+            <p>To which he Replyes, 1. That the Independents have not the leaſt Precept,
+or Example for a ſolemn Covenant, but in the old Teſtament, and Church of
+the Iſraelites; and that no private Congregationall, but publike nationall
+Covenant, preſcribed by the ſupream temporall Magiſtrate, and Aſſembly,
+yea, the principall Precepts and Preſidents for ſanctifying the Sabbath, pub<g ref="char:EOLhyphen"/>like
+or private Faſts, you likewiſe derive from the old Teſtament, and that
+Church; Why ſhould not therefore their nationall Church be a pattern for
+us? &amp;c.</p>
+            <p>To which I Anſwer: Firſt, For the Covenant, we hold not
+that ſuch a formall Covenant conſtitutes a Church; this is enough,
+that there be an union, whether by Covenant explicite or implicit,
+or conſent; that is certain the Union is Morall, as all other muſt be
+that conſtitute a Policie: yet for that he ſaith, there is no Precept
+or pattern but in the old Teſtament for a Covenant: its anſwered;
+Secondly, That its ground enough for ſuch a practiſe, the Cove<g ref="char:EOLhyphen"/>nant
+not being Ceremoniall, but Morall, and that which of neceſ<g ref="char:EOLhyphen"/>ſity
+goes to ſuch a Conſtitution; it did not conſtitute the Church as
+nationall, but as a Church: Indeed the Covenant was nationall, be<g ref="char:EOLhyphen"/>cauſe
+the Church was ſo, but that was accidentall. Its no part of
+the eſſence of a Covenant, that it ſhould be nationall, that doth <hi>ac<g ref="char:EOLhyphen"/>cedere</hi>
+to it as it conſtitutes ſuch a Policie; and the ſame, or which is
+equivalent, muſt conſtitute a particular Church, the ſame formall
+Conſtitution that was in that Church, as a Church, muſt be in every
+Church alſo: and though the diſpenſation in Churches be diffe<g ref="char:EOLhyphen"/>rent,
+<pb n="26" facs="tcp:154994:17"/>
+yet the ſame conſtitutive Principles remain in all.</p>
+            <p>For that he ſaith, the principall Precepts, for a Sabbath, and Faſts, we
+take out of the old, Teſtament, and therefore why ſhould not their <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+Church be a pattern for us to imitate, as well as their nationall Covenant,
+Sabbaths? &amp;c.</p>
+            <p>I Anſwer: We keep the Sabbath onely as it is a Morall Pre<g ref="char:EOLhyphen"/>cept
+in the Decalogue, not as peculiar to the Jews; for where there
+was any ceremonialneſſe (in it, as the ſeventh day) its changed a<g ref="char:EOLhyphen"/>mong
+us; and for Faſts, there is as great equity, that when we have
+diſpleaſed God, we ſhould ſolemnly humble our ſelves before him.
+But that the Church was Nationall, was meerly accidentall; and he
+might as well argue, and it will as rightly follow, that there muſt
+be but one viſible Church in all the world, and that one nation, as
+the Jews were; for if he argue from one part, which is accidentall,
+he muſt argue from, another that is ſo likewiſe. Beſides, if this be a
+property of a Church, that it be nationall, then there is no Church
+but what is nationall if that did <hi>convenire</hi> to the Church of the Jews,
+as a Church, that it was nationall, then it doth ſo unto every
+Church; and the ſame may be ſaid, that there was but that one
+Church in the world then, therefore there is but one now. Many
+ſuch abſurdities will neceſſarily follow ſuch an Argument.</p>
+            <p>To that that I ſay, that the Covenant of the Goſpel is made
+with no particular nation, but with every one in every nation that
+beleeves, and that there is no Propheſie or Promiſe of any one na<g ref="char:EOLhyphen"/>tion
+to be converted, but the Jews.</p>
+            <p>He Anſwers: That this Reaſon is both abſurd and falſe, the Covenant
+extending not only to particular perſons, but to all nations, &amp;c. <hi>And for this
+he quotes many Scriptures in the Margent, the ſumme of which is
+contained in</hi> Pſal. 2. 8. Ask of me, and I will give thee the heathen for
+thine inheritance, and the utmoſt parts of the earth for thy poſſeſſion. <hi>And
+that in</hi> Eſay 2. 2, 3. The mountain of the Lord ſhall be exalted on the top
+of the mountains, and all nations ſhall flow to it. <hi>Therefore God hath
+made a Covenant with particular nations to be Churches.</hi>
+            </p>
+            <p>To which, I anſwer, 1. That if theſe Texts be to be underſtood ſo,
+Jeſus Chriſt never had a Church ſince the diſſolution of the Jewiſh
+State; for there hath been no nation in the world yet whol<g ref="char:EOLhyphen"/>ly
+given to Chriſt, none that may be called a holy nation; as
+yet that Propheſie is not fulfilled: what may be hereafter I know
+not.</p>
+            <p>
+               <pb n="27" facs="tcp:154994:17"/>
+Secondly, You may as well ſay that the Covenant of the Go<g ref="char:EOLhyphen"/>ſpel
+is made with all nations, and that all nations are, or ſhall be,
+Churches to Chriſt, for ſo the words run in the generall: <hi>I will give
+thee the heathen for thine inheritance, and the utmoſt parts of the earth, &amp;c.</hi>
+and all nations ſhall flow in unto the Church; and become ſuch.</p>
+            <p>Thirdly, That in <hi>Pſalm.</hi> 2. is not meant of God covenant<g ref="char:EOLhyphen"/>ing
+with any people, but it ſhews that all the world is in ſubjection
+to Chriſt, and that the Father hath given him all rule and power
+from one end of the earth to the other; and the following words
+imply ſo much; for he ſaith, He ſhall rule them with a rod of iron;
+now its not meant ſo much of the Church, as of the Kings, and Po<g ref="char:EOLhyphen"/>tentates,
+and great men of the world, that band themſelves againſt
+Chriſt. Chriſt rules not his Church with a rod of iron, but with
+a golden Scepter; and if all nations were given to Chriſt, that is,
+really converted, and in Covenant, there would not be ſo many
+Potentates, Kings, and great ones, to band themſelves againſt
+Chriſt and his Church; and for that place <hi>Eſay</hi> 2. That all nati<g ref="char:EOLhyphen"/>ons
+ſhall flow into the Church when once its exalted, its no more
+then what was fulfilled in <hi>Acts</hi> 2. where men of every nation under
+heaven beleeved, and ſo is the word commonly uſed for ſome of
+all nations; and the utmoſt that can be ſaid of them, and all the
+other places brought, is but this, that when Jews and Gentiles ſhall
+all be called together, the moſt part of the nations ſhall beleeve,
+and come to Chriſt, in 1 <hi>Pet.</hi> 2. 9. which he quotes: The Apoſtle
+calls the ſcattered Saints a holy nation, yet they were no nation,
+but ſcattered thorow many nations; and theſe Scriptures are
+meant of the multiplicity of beleevers that ſhall be brought under
+Jeſus Chriſts Dominion: and theſe Texts do no more prove a na<g ref="char:EOLhyphen"/>tionall
+Church, or any one nation wholly converted, then that
+Text, <hi>Go preach the Goſpel unto every nation, Matth.</hi> 28. proves that
+every nation ſhall therefore be converted to Chriſt; and they ra<g ref="char:EOLhyphen"/>ther
+prove, that all nations ſhall be reall Saints, then that any one
+nation or more ſhall be ſo. Beſides, if the Church be nationall,
+every one of the nation is a member, and there can be no cenſures
+of Excommunication rightly adminiſtred; for there can be no Ex<g ref="char:EOLhyphen"/>communication,
+but either by cutting the perſon off from this life,
+or elſe baniſhing, which are for deſtruction, not edification; for
+whiles he lives in the Kingdom, he is a member, and the bounds
+and limits of the nation are the bounds and limits of the Church.</p>
+            <p>
+               <pb n="28" facs="tcp:154994:18"/>
+Againe, of what Nation in the world can it be ſaid which is
+ſaid of the Church, you are a peculiar and holy people? nay are not
+all the Nations corrupted, few or none, in the moſt, imbracing the
+Goſpel? <hi>England</hi> hath been accounted as Proteſtant, and as refined
+a Nation, as any hath been for Doctrine; yet how many vipers
+hath it bred in its own bowels? who ever have been more wicked
+then they? where have the Saints been more perſecuted then here?</p>
+            <p>Againe, if Nations may be Churches, there will be no diſtin<g ref="char:EOLhyphen"/>ction
+between the World and the Church: all will be Saints, and as
+far members of the viſible Church, as the beſt Saints.</p>
+            <p>To that I ſay, that he cannot ſhew any Nation, every Member
+whereof is qualified ſufficiently to make up a Church, unleſſe wee
+will take in Drunkards, Whoremongers, &amp;c. and this cannot be a<g ref="char:EOLhyphen"/>voided
+in a Nationall Church, <hi>he anſwers: that he daces not be wiſer
+then his Lord and Maſter, who informes him that there will and muſt be
+alwaies in the viſible Church on earth goats among the ſheep, ch<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ffe amongſt
+the wheat, &amp;c.</hi>
+            </p>
+            <p>I anſwer: 1. That there will be goats, is moſt certaine: but that
+there muſt be, is neither <hi>neceſsitate praecepti</hi> nor <hi>med<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>j.</hi> Chriſt never
+commanded it, neither is it of abſolute neceſſity, for the Saints can
+live &amp; be built up without any mixture of ſuch ſociety is it a delight
+and pleaſure to Chriſt to ſee goats among his ſheep, in his own fold?
+what need then [this muſt] be ſo confidently put in?</p>
+            <p>Secondly, goats, chaffe, bad fiſh, are taken for hypocrites as
+well as profane men, and in theſe places they are only to be taken
+ſo; as for example, that place <hi>Mat.</hi> 13. 24. of the good ſeed and
+the tares which he quotes, by tares are not meant profane perſons,
+but hypocrites: 1. the <note n="*" place="margin">Scutietus in obſe. vat. in Mat. Paſor. Lexicon. in <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>b.</note> Word expreſſeth no more, tares (as Hiſto<g ref="char:EOLhyphen"/>rians
+obſerve) are a weed like the wheat: now profane men are no
+way like the Saints: 2. if it be meant of profane men, and Maſter
+<hi>Pryn</hi> take it of their being in the Church, then all the cenſures of
+the Church are out off <hi>ipſo facto,</hi> for the Text ſaith expreſſely, they
+muſt be let alone till the harveſt, (that is, the day of judgment) ſo
+that no wicked man may be excommunicated, or any cenſure paſſe
+upon him: yea 3. it is plaine, they are hypocrites, they were diſco<g ref="char:EOLhyphen"/>vered
+by none but the Angells: yea 4. if you will needs take it of
+profane men, the Text ſaith expreſſely, that theſe were not in the
+Church, but in the world; the field is the world, <hi>verſ. 38. whereas
+he ſaith, he finds that in the Churches of Galathia, Colloſſe, Pergamus, &amp;c.
+<pb n="29" facs="tcp:154994:18"/>
+there were drunkards, Epicures, whoremongers, &amp;c.</hi> I anſwer in general,
+that I know no Churches openly taxt for any ſuch groſſe acts of ſin
+in all the New Teſtament; only the Church of <hi>Corinth</hi> abou the
+inceſtuous <hi>Corinthian,</hi> which is ſpoken as a defilement, and a blot
+upon them, whereby they were corrupted; and he therefore exhorts
+them to caſt him out, <hi>that they might be a new lumpe, 1 Cor.</hi> 5. As for
+1 <hi>Cor.</hi> 11. where the Apoſtle ſaith, <hi>one is thirſty and another is drunke,</hi>
+I think it not meant of that groſſe act, which we call drunkenneſſe,
+but the ſame with that which is ſaid of <hi>Joſeph</hi> and his brethren,
+<hi>Gen. 43. 5. they dranke and were merry;</hi> they drank more freely then
+they ought at that time, though it might be lawfull at another
+time; but however, though there were theſe in ſuch Churches: Yet</p>
+            <p>Firſt, I ſpeak of the firſt conſtitution of a Church, and what
+Churches ſhould be, not what they are degenerated into.</p>
+            <p>Secondly, they were moſt ſpirituall ſins that were laid to the
+charge of the ſeven Churches, and other Churches, as that they
+loſt their firſt love, countenanced falſe teachers, &amp;c. not ſuch groſſe
+acts of prophaneſſe, as whoring, &amp;c. Yet</p>
+            <p>Thirdly, what heavy and ſad threatnings are there denounced
+by God againſt theſe, if the continued in that eſtate, and what judg<g ref="char:EOLhyphen"/>ment
+did follow? for God is very tender of his worſhip, and what
+is become of all theſe Churches now? how greatly hath God been
+diſpleaſed with them? the Jewes might not enter into marriage
+with the daughters of a ſtrange Land, much leſſe might they admit
+them to ordinances among them, unleſſe really converted, and
+made proſelytes: now ſuch are all not viſible Saints, in the judg<g ref="char:EOLhyphen"/>ment
+of the Saints, unto thoſe that are really called, and joine to<g ref="char:EOLhyphen"/>gether
+in the ordinances, and they ought to be as ſhye of thoſe, as
+they were of them: whatever a Church rightly conſtituted may
+fall into by defection, I ſpeak not of; but what they ought to be, ſuch
+as the word calls Saints, which can hardly be given by any know<g ref="char:EOLhyphen"/>ing
+Saint, to the moſt part of men in <hi>England: For that he asketh,
+whether we have not drunkards, cozeners, uſurers, &amp;c. members of our Chur<g ref="char:EOLhyphen"/>ches?</hi>
+I anſwer, we know none, and we ſhould thank Maſter <hi>Pryn</hi> if
+he could diſcover any ſuch, &amp; account him our reall friend in it: <hi>For
+that he ſaith, where was there ever a Church of all elected ones? that is a
+ſtate for heaven, not for this world:</hi> I anſwer, theres none ſaith a
+Church muſt be all of elect, but of ſuch as can be judged by the
+Saints to be elect. If men be not ſaved, its not becauſe the Church
+<pb n="30" facs="tcp:154994:19"/>
+is deceived, but themſelves: the Church goes only on theſe proba<g ref="char:EOLhyphen"/>ble
+rules of judging by which the word preſcribes; the viſible
+Church, in Scripture, is called Heaven often times, as <hi>Mat.</hi> 25. 1.
+<hi>Heb. 12. 26. Mat</hi> 13. and in <hi>Eſa.</hi> 4. 5. its called glory, to intimate
+that none ſhould properly be of the Church, but ſhould go to Hea<g ref="char:EOLhyphen"/>ven;
+and its called the body of Chriſt, none ſhould be admitted as
+members of that body, but thoſe who can really be judged to be ſo:
+if prophane perſons muſt be in the Church, as you ſay, then I know
+no reaſon but all may be in the Church, and no man in the world
+may be ſaid to be out of the Church; for the moſt are ungod<g ref="char:EOLhyphen"/>ly:
+if ungodly ones do ſteal in among the Saints to a Church, they
+proſper not, and Chriſt will diſcover them to their everlaſting
+ſhame; and more dreadfull judgments follow none as theſe: Chriſt
+dwells in his houſe, which is the Church, and its no pleaſure to
+Chriſt to ſee a mixture among his owne: he that made a whip of
+cords to drive out the buyers and ſellers out of the materiall Tem<g ref="char:EOLhyphen"/>ple;
+will take rods of iron to whip out ſuch ungodly wretches. I
+am ſure Chriſts bread belongs to no ſuch dogs, only the children
+are welcome, and he hath given power to his Church to keep out
+theſe that have not a judged right.</p>
+            <p>Againe, if prophane perſons, and ſuch as walke not like Saints,
+are to be caſt out of the church, then ſuch as are judged ſo muſt
+not be admitted into the church; but the former is true, <hi>Ergo.</hi> That
+they are to be caſt out of the <hi>Church,</hi> is cleer from the Scriptures,
+<hi>Mat. 18. 1 Cor.</hi> 5. that therefore they ought not to be admitted, is
+as cleare: for the ſame ground is in both; they are admitted in, be<g ref="char:EOLhyphen"/>cauſe
+they walke as Saints, and ſo are judged to be Saints; they are
+caſt out becauſe they walk not as ſuch: the truth is, this principle
+will ſoon leſſen a Nationall <hi>Church,</hi> and therefore no wonder the
+Presbyterians are ſhye of holding it; for they muſt caſt out the moſt
+of their members, aſſoon as they receive them in. Its the ſtrangeſt
+thing to me, and I ſtartle at it many times, what ſtrict rules the
+Presbyterians have laid down in their Sermons in print,<note place="margin">Maſter <hi>D<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>s</hi> preparation to the Sacra<g ref="char:EOLhyphen"/>ment.</note> and their
+Sermons before the Sacrament every moneth, in which they lay on
+men ſuch qualifications, both habituall and actuall, that there is not
+one in a hundred of the beſt Saints can follow them, and yet blame
+their brethren for keeping of there, which they cannot judge to
+have the leaſt degree of theſe qualifications: they tell them it be<g ref="char:EOLhyphen"/>longs
+not to them, they will eate and drinke their owne damnati<g ref="char:EOLhyphen"/>on,
+<pb n="31" facs="tcp:154994:19"/>
+on, and yet cry out in theſe that would not have theſe poor ſouls
+contract ſuch guilt, and draw on ſuch ruine on their own ſouls,
+and therefore keep them back; do you take in theſe who are drun<g ref="char:EOLhyphen"/>kards,
+whoremongers, &amp;c. into communion in the ordinances
+blame us not if we keep our ſelves from ſuch defilements.</p>
+            <p>For his anſwer (<hi>ſaith he</hi>) to that of <hi>Act.</hi> 15, all ages, Churches till this
+preſent, have held it as an expreſſe warrant for provinciall and nationall Sy<g ref="char:EOLhyphen"/>nods,
+and their making Cannons in Church affaires: <hi>I ſhall not ſay much
+to this, not doubting but we ſhal ſee theſe things ſhortly in print,
+which our brethren have urged in the Aſſembly.</hi>
+            </p>
+            <p>How that can be a formall Synod I could never ſee yet made
+forth: For</p>
+            <p>Firſt, This was not a gathering of the Elders of many Church<g ref="char:EOLhyphen"/>es,
+who make a Synod, but only ſome meſſengers (whether Elders
+or no the Text ſpeaks not) occaſionally ſent up to <hi>Jeruſalem,</hi> to
+that Church there.</p>
+            <p>Secondly, here was the whole multitude, <hi>viz.</hi> the Brethren pre<g ref="char:EOLhyphen"/>ſent,
+beſides the Apoſtles and Elders, and the Letter that is ſent is
+as much written in their name, as of any of the Elders: now the
+Brethren or multitude are not uſuall to be Members of Synods.</p>
+            <p>Thirdly, the Meſſage is ſent as the mind of the Holy Ghoſt, and
+not their bare judgments, but that which they had principally re<g ref="char:EOLhyphen"/>ceived
+by inſpiration from the Spirit, and is not now ordinary to
+any Synod, for what Synod, I can ſay, it ſeemeth good to the Ho<g ref="char:EOLhyphen"/>ly
+Ghoſt, and us to lay ſuch things on you.</p>
+            <p>Fourthly, if this were a Synod made up of Elders of ſeverall
+Congregations, and that <hi>Paul</hi> and <hi>Barnabas</hi> went not up to prove
+the falſe Apoſtles lyars, but to have the truth manifeſted, which they
+could not do; then a Synod of Elders have more power then bare
+Apoſtles to order things in the Church; <hi>Paul</hi> and <hi>Barnabas</hi> were
+men very unfit to be Apoſtles, if they could not have determined
+ſuch a queſtion whether it was neceſſary for the Gentiles to be cir<g ref="char:EOLhyphen"/>cumciſed,
+who were to plant and order things in all the Churches;
+and who had power over all Churches, and were to write the man I
+of God to them: ſurely, one Apoſtle had more knowledge
+of the things of God, and of matters of controverſie in the
+Church, then all the Synods in the world beſides; nay all are to
+follow what they loft to the Churches; it were greatly to diminiſts
+the Apoſtles power, and the highneſſe of that office, to think than
+<pb n="32" facs="tcp:154994:20"/>
+they could not determine ſuch a queſtion, but muſt go to a Synod
+to have it cleared up to them. Beſides, it was an Apoſtle, when they
+came up to <hi>Jeruſalem,</hi> (viz. <hi>Peter</hi>) who decided the controverſie, and
+<hi>Paul</hi> and <hi>Barnabas</hi> were men of as great judgement, and had as
+much power as he. However we think not that to be a Synod, yet
+the convening of Aſſemblies and Synods for advice and counſell
+we deny not, but that any Synod or Councell hath an authoritative
+juriſdiction to impoſe Laws and Canons for all Churches to walk
+by, we conceive cannot be proved, neither from this of <hi>Acts</hi> 15. or
+any other Text: Yea, even this Aſſembly now among us the Par<g ref="char:EOLhyphen"/>liament
+have called onely for advice, not intending to give them a
+power of juriſdiction over them and all the Kingdome: Maſter <hi>Pryn</hi>
+ſaith, and takes much pains to prove (in his late triumphing book)
+that Synods, and Councells, and Magiſtrates have ever uſed to
+make Laws for the Church, &amp; to exerciſe a coercive power in mat<g ref="char:EOLhyphen"/>ters
+of Religion, <hi>De Facto,</hi> (and he might have ſaved himſelf la<g ref="char:EOLhyphen"/>bour
+to have proved it:) but whether, <hi>De Jure,</hi> there is ſuch a
+power inveſted in them, and from what Scripture I have not yet
+ſeen, and ſhould be glad to be informed by him.</p>
+            <p>To my ninth Querie (ſaith he) and Argument in it, he returns nothing
+worthy Reply, but upon this <hi>Petitio principii,</hi> that the Scriptures and the
+Apoſtles have preſcribed a ſet form of Government, &amp;c. (which I have proved
+before:) and that the Churches in the Apoſtles dayes were Independent,
+though doubtleſſe (ſaith he) all Churches were then ſubject to the Apoſtles
+Laws and Edicts, &amp;c. therefore not Independent.</p>
+            <p>What there is in this worthy of Reply, I am ignorant of; yet
+this is to be noted, hwo the Presbyterians make a market of this
+ſcandalous name of Independents they have faſtened on us: <hi>viz.</hi>
+To make the world beleeve that we are ſubject to no Laws, that
+neither Gods Word nor mans is a rule to us, for this is the naturall
+ſenſe of his words: he ſaith, <hi>The Primitive Churches were ſubject to the
+Apoſtles Laws:</hi> Ergo, <hi>Not Independent.</hi> As if we held that we were
+Independent from the Apoſtles Laws. And if he put it as an Ar<g ref="char:EOLhyphen"/>gument,
+it runs thus: if the Primitive Churches were ſubject to the
+Apoſtles Laws &amp; Rules, then are all Churches now ſubject to a Preſ<g ref="char:EOLhyphen"/>bytery
+and Synods; the conſequence we deſire you to prove: To
+whom ſhould the Church be ſubject but to theſe, who gave them
+the minde of God immediatly? And here let the Reader obſerve,
+that in this Head Maſter <hi>Pryn</hi> brought in many Arguments by way
+<pb n="33" facs="tcp:154994:20"/>
+of abſurdity, upon the holding of the Primitive Churches to be a
+pattern of all other, which, it ſeems, he is aſhamed to mention,
+and ſeeth now, becauſe of what was retorted on him, that even they
+themſelves are abſurd. For that he ſaith of my retorted, <hi>That the
+Scriptures were written in the infancie of the Church, therefore better might
+be written now; that is a blaſphemous concluſion:</hi> Its confeſſed. Yet
+had it as good a conſequence as yours, that the Churches now had
+a more perfect conſtitution then the Churches in the Apoſtles
+times, becauſe they were the firſt, and, as you call them, Infant
+churches.</p>
+            <p>
+               <hi>Whereas you ſay that the Scripture was writ by the Ancient of dayes,
+who hath neither infancie nor imperfection, as the Church hath.</hi> I Anſwer:
+That the Scripture was writ to be a Rule to perfect the Churches,
+and the reaſon of the imperfection of the Churches, is, becauſe it
+comes not up to that Rule; and theſe Churches (how ever you
+deemed them Infant) had more knowledge of that Rule then ever
+any yet have had, they receiving it more immediatly from Gods
+mouth then any ſince; and their Churches muſt needs be more ex<g ref="char:EOLhyphen"/>actly
+conſtituted then any ſince, who lived under the Apoſtles di<g ref="char:EOLhyphen"/>rection,
+and had all they had from them, as from God.</p>
+            <p>To that I ſay, that he would make a Nationall Church more
+perfect then a Congregationall, he ſaith, he doubts not to averre
+it, ſince warranted by direct<note n="*" place="margin">Eph. 4. 11, 12, 13. 2 Cor. 13. 9. Heb 6. 1. 1 Pet. 9. 10. Phil. 3. 12. 2. Heb. 13. 21. James 1. 4.</note> Scriptures; to the which I ſhall re<g ref="char:EOLhyphen"/>fer
+the Reader but to look over, and then let him learn hereafter
+to be taken with Maſter <hi>Pryns</hi> Marginall Quotations; what ſhad<g ref="char:EOLhyphen"/>dow
+there is of proof in theſe Scriptures, but a caſt of an eye will
+diſcern: But yet I anſwer; Imperfection in any thing ariſeth more
+or leſſe, either from the defect of ſomething eſſentiall, or which is
+to the beauty and ornament and glory of a thing, or both; then is
+a thing more or leſſe perfect, when either its eſſentialls are more
+perfect, or that which accidentally goes to the adorning of it.
+What there is more of theſe two in a Nationall Church, then in a
+Congregationall, I know not; unleſſe the mixt multitude of be<g ref="char:EOLhyphen"/>leevers,
+and profane perſons growing up together into a bitter
+bulk of ſin, ſhould adde either to the eſſence or ornament of a
+Church: if God had ſeen ſo much beauty in Nationall-churches
+above others, he would not have deſtroyed the Jewiſh State, or at
+leaſt would have ſtabliſhed the like in the Goſpel, and would have
+converted the heathen Empires, and have took them in to be a
+<pb n="34" facs="tcp:154994:21"/>
+Church to him. It was the mixt multitude which came out of E<g ref="char:EOLhyphen"/>gypt
+with the Iſraelites that brought them to ſo much wo; indeed,
+were a whole nation ſuch as could be judged reall Saints, it would
+be a lovely ſight to behold ſo many Churches walking together in
+the unity of the faith, but that never hath been yet; we know not
+what may be, we have little hopes of it untill the Jews be called,
+(if then.) And which is a more perfect State, a company of viſi<g ref="char:EOLhyphen"/>ble
+Saints joyned together in love, and walking in all the Ordi<g ref="char:EOLhyphen"/>nances
+of God according to their light, or a whole nation, wherein
+there is here and there a Saint walking with Whoremaſters, Drun<g ref="char:EOLhyphen"/>kards,
+and all ſorts of ungodly ones without diſtinction, and en<g ref="char:EOLhyphen"/>joying
+all theſe Ordinances that the moſt have no right unto? The
+compariſon between a grown experienced Chriſtian, and a babe in
+grace, is no way proportionable to this thing. Wherein lies the
+growth and perfection, and experience in a Nationall-church, that
+is not in a Congregationall? Either it lies in the Presbytery, and
+Nationall-aſſembly, or in the diſtinct Pariſhes, and the Members
+of them: If in the Aſſembly that they are ſo experienced, the people
+have little benefit by it, unleſſe to ſubject their necks to what they
+ſay; and there is the ſame in many Congregationall-churches,
+when met for advice; if in the Pariſhes and the ſeverall Congrega<g ref="char:EOLhyphen"/>tions,
+the ſame is, in this way we ſpeak of, much more; little is the
+edification the members have from the perfection of a Nationall-church,
+ſeeing they cannot meet together, or be preſent at the hea<g ref="char:EOLhyphen"/>ring
+of theſe experiences that others have; the onely benefit the
+members have is from the enjoyment of the gifts of their own Pa<g ref="char:EOLhyphen"/>ſtour;
+and it may be he one that they never choſe as Paſtour to
+them, but was impoſed on them: and the truth is, this is but to
+circumſcribe the Church in the Miniſters, for elſe there may be
+more underſtanding men, and experienced Chriſtians in a Con<g ref="char:EOLhyphen"/>gregationall-church,
+then generally thorowout a nation; the
+common people being moſt ignorant every where.</p>
+            <p>
+               <hi>One thing he urgeth more in this;</hi> That a Congregationall-church
+is forced to pray in the aid of other Churches for advice, aſſiſtance, &amp;c. which
+a Nationall-church need not.</p>
+            <p>Now here let all the world obſerve, whether he or any of the
+Presbyterians have cauſe to call us Independent: What more inde<g ref="char:EOLhyphen"/>pendent
+then a Nationall-church? Its a Pope, infallible, needs no
+aid, aſſiſtance of any Church in the world, it hath a ſpirit of in<g ref="char:EOLhyphen"/>fallibility
+<pb n="35" facs="tcp:154994:21"/>
+tied to its girdle. We acknowledge we need help and
+aſſiſtance from other Churches, they need none; and here all you
+Presbyterians, either renounce Maſter <hi>Pryns</hi> opinion, and get ſome
+other Champion for you, or elſe for ever ceaſe to open your mouth
+to call any of the Congregationall way Independent.</p>
+            <p>
+               <hi>In fine (ſaith he</hi>) He himſelf confeſſeth that the Apoſtles made new rules
+for Government and Diſcipline, as occaſion ſerved and as God fitted occa<g ref="char:EOLhyphen"/>ſions,
+ſo he made known new rules ſucceſſively, by degrees, not at once, &amp;c.
+Therefore the Infant-Church in the Apoſtles dayes was not ſo compleat and
+perfect in all its parts, as the multiplied and grown Churches afterwards.</p>
+            <p>
+               <hi>A.</hi> How much he hath failed in the recitall of this, let the Rea<g ref="char:EOLhyphen"/>der
+compare, and judge; (I will not ſay wilfully, as he ſaith of me)
+for he hath left out that part which was the ſtrength of all, which
+if he had took in, his Poſition had been overthrown; which was,
+that though the Apoſtles added by degrees, according as occaſion
+ſerved, new Rules, and Offices (for to what end ſhould they adde
+untill there was occaſion?) yet ſo, as at length they diſcovered all
+the minde of God concerning his Churches Government, and left
+it as a pattern to all the Churches: As the Scriptures were not
+written all at once, but ſome Epiſtles were written to ſome Chur<g ref="char:EOLhyphen"/>ches,
+before others, according as occaſion was, and the <hi>Revelation</hi>
+diſcovered laſt, as concerning the laſt Ages of the Church,; yet ſo;
+as ſtill at length, that the whole Scripture ſhould be written, and
+left as the minde of God to all ages. And unleſſe Maſter <hi>Pryn</hi> ſaith,
+that the Churches conſtituted by the Apoſtles had not at length a
+full diſcovery of Church-government, he hath no ground to think
+they were not ſo compleat as the following Churches.</p>
+            <p>My tenth Querie (ſaith he) he wilfully miſ-recites, as he doth the reſt:
+and then returns an Anſwer by way of Dilemma,<note place="margin">Charity would have prompted you other<g ref="char:EOLhyphen"/>wiſe.</note> to which he Anſwers thus:
+That if the Parliament and Synod ſhall by publike conſent eſtabliſh a Preſ<g ref="char:EOLhyphen"/>byterian
+Government, as conſonant to the Word, the Laws and Regiment of
+this Kingdome, Independents and all others are bound in conſcience to ſub<g ref="char:EOLhyphen"/>mit,
+under pain of obſtinacie, ſingularity, in caſe they cannot prove it Dia<g ref="char:EOLhyphen"/>metrally
+oppoſite to the Scripture, &amp;c.</p>
+            <p>Something hath been ſaid in Anſwer to this before: Yet further,
+if Maſter <hi>Pryn</hi> means by ſubmitting, that actually we muſt yeeld
+to the Presbyteriall judgement, and on the firſt ſetting of it up, pre<g ref="char:EOLhyphen"/>ſently
+lay down every thought of Reaſon and Argument we have
+raiſed up againſt it, and ſay it is the way of Chriſt, and the onely
+<pb n="36" facs="tcp:154994:22"/>
+way which we muſt ſerve Chriſt in; if he thinks any of us to have
+the leaſt principles of reaſon, he cannot imagine we ſhould do ſo.
+But if he means thus, That we ought not to ſtand againſt that Au<g ref="char:EOLhyphen"/>thority
+that ſets it up, but ſubmit to the penalty (if the leaſt can in
+conſcience be impoſed) which ſhall be laid on us; we grant it: I
+hope we ſhall not be found deſpiſers of Authority in that; but ſhall
+expect as great aſſiſtance from Jeſus Chriſt, as ever you did, in a
+matter far lower, even the writing againſt a Biſhops Court, or a
+Cardinalls Cap, as croſſing the Statutes of the land; and as you
+confeſſe, but a matter of meer opinion: I ſpeak not this to upbraid
+you, or detract from your ſufferings (which are indeed badges of
+honour, not of ſhame;) but as far as your ſelf detract from them,
+in telling us the true ground of them, that we might not too much
+glory in you. Theſe places you ſo often quote, <hi>Rom. 13. 1. 1. Tim.</hi> 2.
+1. <hi>&amp;c.</hi> They make as much for Heathen Magiſtrates as Chriſtian,
+and in every thing as well as any thing, if it be meant of actuall
+obedience.</p>
+            <p>
+               <hi>To his croſſe Interrogatories (ſaith he) I Anſwer:</hi> Firſt, That
+if the Popes Councell command lawfull things to them that are under their
+power, they ought to be obeyed as well as the commands of Heathen Empe<g ref="char:EOLhyphen"/>rours,
+Magiſtrates, Parents, by Chriſtian Subjects, Wives, Servants living
+under them.</p>
+            <p>Notwithſtanding this, the Argument is ſtill in force: That Hea<g ref="char:EOLhyphen"/>then
+Emperours are to be obeyed as well as any Chriſtian Magi<g ref="char:EOLhyphen"/>ſtrates,
+if that as Magiſtrates they muſt be obeyed; for that you ſay,
+and ſeem to make a diſtinction of it, if they command lawfull
+thing. But the queſtion is ſtill, who ſhall be Judge of that? Is it
+not as great a reaſon, that I ſhall be Judge of the lawfulneſſe of the
+things I am to obey, as the Magiſtrate ſhould judge of that he
+commands to be lawfull? If this be not granted, blinde obedience
+muſt neceſſarily follow. If I obey, becauſe he judges it lawfull, I
+obey not out of a principle of judgement concerning the thing, but
+meerly becauſe of the command: what blinder obedience there
+can be, I know not. Again, as before, either the power comman<g ref="char:EOLhyphen"/>ding
+is to be obeyed, or elſe the things themſelves command obe<g ref="char:EOLhyphen"/>dience:
+If the former, that is alike to all Magiſtrates, and in every
+thing there muſt be obedience, where that power is: If for the lat<g ref="char:EOLhyphen"/>ter,
+then the things themſelves binde, and then I muſt needs ſee it
+to be lawfull; and that neceſſity of ſinning put upon a man by this,
+<pb n="37" facs="tcp:154994:22"/>
+is not taken away by any thing I ſee in Maſter <hi>Pryns</hi> Reaſons; for
+if I obey not the power commanding of lawfull things, I ſin, if I
+do obey before I am convinced of the lawfulneſſe of it, or have a
+ſcruple or doubt of its unlawfulneſſe, (much more when I poſitively
+think ſo) I ſin againſt God, and he will condemne me as an hypo<g ref="char:EOLhyphen"/>crite,
+a time-ſerver, as one ſinning againſt my light; and contradi<g ref="char:EOLhyphen"/>cting
+theſe motions, that, for ought I know, are from his good ſpi<g ref="char:EOLhyphen"/>rit,
+God cares not for, nay will condemne whatever is done with<g ref="char:EOLhyphen"/>out
+knowledge, though the things themſelves be what he hath
+commanded: ſo that either we ſhall intreat Maſter <hi>Pryn</hi> to give us
+new eyes, or elſe not to cenſure us, if we actually follow not that we
+have no knowledge in.</p>
+            <p>
+               <hi>Secondly, ſaith he,</hi> there is a great difference between matters of opini<g ref="char:EOLhyphen"/>nion
+only, and of practice, as whether Epiſcopacy be <hi>jure divino &amp;c.</hi> though
+the reſolutions of a Synod and <hi>Parliament</hi> ſhould be affirmative, they could
+not binde my judgment (<hi>ſaith he</hi>) abſolutely, ſo far as to ſubſcribe to their o<g ref="char:EOLhyphen"/>pinion,
+as an undoubted truth, unleſſe they could ſatisfie my arguments, yet
+they ſhould and ought to binde me to practiſe: So if the Parliament and
+Synod ſhould eſtabliſh any Church-government, though it bindes not Inde<g ref="char:EOLhyphen"/>pendents
+to be ſimply of their opinion, or unleſſe your reaſons and arguments
+be ſufficient to convince their judgments; yet it bindes them in point of pra<g ref="char:EOLhyphen"/>ctice
+and obedience outwardly to ſubmit thereunto.</p>
+            <p>This Argument contradicteth the fundamentals of Religion,
+and gives way to the greateſt hypocriſie in the world; this is that
+God requires in all ſervices, that the heart, and the head, and the
+hand goe together; to oppoſe the practice and the judgement in
+ſpirituall obedience, is to ſeparate the ſoul from the body, and bid
+the body act; God hath put the underſtanding in a man, to be a
+light to his path; a mans underſtanding is a mans practice, as the
+eye to the body, without which it cannot walk ſafely; and men
+may be what they will if this be true, that a mans judgment may
+be one way, and a mans practice another; a man may deny God,
+break the Sabbath, ſweare in his practice, ſo his judgement be con<g ref="char:EOLhyphen"/>trary:
+But it may be Maſter <hi>Pryn</hi> meanes it of indifferent things,
+meerly circumſtantiall, but I hope he accounts not matters of wor<g ref="char:EOLhyphen"/>ſhip
+and Church-government ſo; <hi>whatever is not of faith is ſin;</hi> no
+mans practice can be of faith, who knowes not what he doth law<g ref="char:EOLhyphen"/>full,
+much leſſe whoſe judgement is contrary. Its true, matter of
+opinion is one thing, if it be a meer opinion that is not reducible
+<pb n="38" facs="tcp:154994:23"/>
+to practiſe, and I may only hold an opinion, and being contradi<g ref="char:EOLhyphen"/>cted
+by higher powers, though I may not be convinced, yet I may be
+ſilent, but when things come to be preſt on me to practiſe, and that
+in the worſhip of God, and my judgment is not ſatisfied, then I
+muſt be convinc't, or elſe its a ſin for me to practiſe; how Maſter <hi>Pryn</hi>
+thinks in his conſcience we can ſubmit actually to the power of a
+Presbyteriall government, who in our judgments thinke it not the
+power Chriſt would have his Churches be governed by, I know not,
+unleſſe he would have us be the veryeſt hypocrites, time-ſervers,
+theſe which will do any thing to ſave our ſelves, ſurely, how ever
+he can practiſe one thing, and judge otherwiſe of it, we dare not;
+for as we account it below rationall creatures, to put out their own
+eyes to ſee by other means, ſo we thinke it hypocriſie in the higheſt,
+to practiſe that our judgments are againſt: that is not a humane
+action, much leſſe chriſtian, that is not done <hi>praeeunte judicio intel<g ref="char:EOLhyphen"/>lectus;</hi>
+and how much leſſe when it is againſt the thing.</p>
+            <p>To his eleventh Quaere he ſaith, I give only a negative anſwer, and then
+declaime againſt Presbyterie, without any ground or reaſon; which he
+ſaith he will prove no further, except in two particulars: Firſt, that inde<g ref="char:EOLhyphen"/>pendency
+is in reality meer ſeparation and Browniſme, lately chriſtened with
+a new title to take off its Odium. <hi>To which I ſhall ſay no more in a
+way of anſwer but this, that it will be well if Presbytery prove
+not in reality a tyrannicall Epiſcopacy, only newly baptized with
+the fair word [regulated] a regulated Epiſcopacy, ſaith Maſter</hi> Pryn
+<hi>himſelf; and I wiſh it may not break its bridle ſhortly.</hi>
+            </p>
+            <p>
+               <hi>Secondly, he ſaith,</hi> that we find what bloody diviſions, wars, Schiſ<g ref="char:EOLhyphen"/>mes,
+the toleration but of one Religion in our Realme, contrary to that e<g ref="char:EOLhyphen"/>ſtabliſhed,
+(<hi>viz.</hi> Popery and Papiſts) hath produced in all our Domi<g ref="char:EOLhyphen"/>nions,
+&amp;c.</p>
+            <p>To which I anſwer: Firſt, that there is no compariſon between
+Popery, and this way we ſpeak for; they differing in all funda<g ref="char:EOLhyphen"/>mentalls,
+their principles being abſolutely againſt the ſecular pow<g ref="char:EOLhyphen"/>er
+which is not of their Religion; neither is ours; different Reli<g ref="char:EOLhyphen"/>gion,
+but the ſame; only in ſome points; wherein the beauty of
+Religion lies, we differ; we have the ſame faith, baptiſme, we all
+profeſſe the ſame Chriſt, yea, we differ but in a point, and that
+meerly out of conſcience.</p>
+            <p>Secondly, how will you help the growing of Sects? do what
+you can they will grow, not all the counſells yet, and ſtricteſt go<g ref="char:EOLhyphen"/>vernments
+<pb n="39" facs="tcp:154994:23"/>
+in the world, have ever kept their dominions free;
+nay, the more ſeveritie is uſed, the more they will grow: for that
+which is oppoſed and cried out againſt, men will the more prye
+into; Biſhops made more Puritans againſt their will, then ever
+was before; and it will be ſo in other things too: men will be
+doubting whether that power be lawfull, which is ſo cruell: er<g ref="char:EOLhyphen"/>rors
+are like camorile, the more you tread them downe, the
+more they will grow, let them alone they will fall off themſelves.</p>
+            <p>Thirdly, Uniformity is no marke of a true Church, that is
+the Papiſts glory, the Apoſtle ſaith, there muſt be hereſies, that
+the truth may be manifeſted; this is the glory of the Saints,
+that though their light differ, yet their hearts are one; and they
+love one another, though in ſome things they have not received
+equall knowledge.</p>
+            <p>Yet farther to come to this way, for that is it you intend, that
+there may not be any ſufferance of it.</p>
+            <p>If it muſt not be tolerated; its either for ſomthing in its ſelf,
+or for its inconſiſtency with ſtates, or for feare that they ſhould
+grow too numerous for the power of the Magiſtrate to curbe.</p>
+            <p>For the firſt, let all the world judge that knowes it, what it
+holds, I know nothing, that either in its foundation or ſtructure
+hath any poyſon or ſting in it; any thing that may not in chari<g ref="char:EOLhyphen"/>ty
+be borne with, that ſeeks not preeminence or jurisdiction
+over others; it meddles not with other mens matters, to diſturbe
+them in their peace; all that it differs from you, is in matters of
+Diſcipline, and what is not immediatly belonging to ſalvation,
+yet they are the liberties of Chriſt, as is conceived.</p>
+            <p>As Secondly, neither is it inconſiſtent with States, for it was
+ſet up under the Heathen Emperours, that were the moſt cruell,
+and there is nothing in its principles, that hath ſo much as a ſha<g ref="char:EOLhyphen"/>dow
+of inconſiſtency, for it meddles not with their power; be<g ref="char:EOLhyphen"/>ſides,
+we ſee in other Kingdoms (as flouriſhing States as any are)
+many others beſides this way are tolerated, yet no diſturbance
+to the State; yea, though the publike government of the Church
+be Presbyteriall: he knowes little in Hiſtory, who knowes not,
+that men of different Religion have been ſuffered and tolerated
+to enjoy their conſcience, yea, even among Heathens; how much
+<pb n="40" facs="tcp:154994:24"/>
+more when the difference is only in ſmaller things; States loſe
+nothing by preſerving the Liberties of mens conſciences. In <hi>France</hi>
+the Proteſtants are accounted the beſt Subjects, they are tolera<g ref="char:EOLhyphen"/>ted
+contrary to the publike Government of the State, yet are
+not inconſiſtent with the well being and flouriſhing condition
+of it. And ſurely, even Papiſts will riſe up in judgement againſt
+us, who ſuffer thoſe who are contrary to their principles, and
+Religion, to enjoy their conſciences, if we ſhall not ſuffer theſe
+who differ not in Religion abſolutely, but in points of leſſer
+conſequence, to injoy their Liberties amongſt us. If upon triall it
+proves inconſiſtent with State, then may the Magiſtrate curbe
+them.</p>
+            <p>But this is the fear, you will ſay, leſt they grow to a Party, and
+be too ſtrong for the Magiſtrate.</p>
+            <p>Firſt, Its againſt their Principles, to have any hand in oppo<g ref="char:EOLhyphen"/>ſing
+the Magiſtrate, to keep up their own Priviledges.</p>
+            <p>Yet ſecondly, If there were any ſuch thought, (which their
+ſoul abhors) yet there are many eyes over them, who will watch
+them cloſe enough to take the leaſt advantage againſt them,
+whereby to bring them into bondage: Beſides, they are the ſmal<g ref="char:EOLhyphen"/>leſt,
+and moſt contemptible Party in the Kingdom.</p>
+            <p>This may as much, nay more probably, be feared of the Presby<g ref="char:EOLhyphen"/>tery,
+who are more numerous, and of greater ſway; and we ſay
+the ſame; Who ſhall reſtrain them? And what if they take diſtaſte
+againſt the proceedings of Parliament, or the like, having got ſo
+much power in the Kingdom, what will become of things then?
+The State gives not Presbytery any power but that it ſuppoſeth
+it is able to reſtrain and overtop them if they offend, and grow
+inſolent; and it may on the ſame conſideration give a toleration
+unto others, knowing that when ever it breaks out, it can ſoon
+check, and bound them: Beſides, as Maſter <hi>Pryn</hi> ſaith himſelf,
+<hi>Such a thing as not to be preſumed of before it be actually committed.</hi>
+            </p>
+            <p>But yet further, That there ought to be an indulgence unto
+ſuch as differ in leſſer matters, for to that I onely ſpeak now.</p>
+            <p>Firſt, That naturall right we have to the Kingdom (though
+I will not urge it as an Argument) as well as the Presbyterians
+that cryes loud for it; we are men as free born as they, have as
+<pb n="41" facs="tcp:154994:24"/>
+great intereſt here as they; nay, many of us having been for<g ref="char:EOLhyphen"/>merly
+deprived of their Liberties, while others did eat the ſweet,
+and drink the fat at home: Yea, further, we have ingaged our
+ſelves in getting a ſetled Peace, in maintaining of the Priviledges
+of Parliament, the Liberty of the Subject and Religion, and we
+think this, in juſtice, but an ordinary reward, (though we expect
+no more, and bleſſe God for that:) For the lives of ſo many
+that we are ſure were of our judgement, and had this in their
+eye, and which when they were gaſping out their laſt, they re<g ref="char:EOLhyphen"/>joyced
+in the thoughts of, that they ſhould procure Liberties for
+the Churches: and ſurely it would be ſomewhat ſad, that our
+lives ſhould go to ſet Presbyterians on the Throne, (though
+much good may it do them) while we our ſelves, that ſerve the
+ſame God, are of the ſame faith, ſhall not have wherewithall to
+lay our head, and that meerly for our conſcience.</p>
+            <p>Secondly, If a man ought not to lay a ſtumbling block before
+any tender conſcience, nor offend him in the uſe of lawfull
+things, in which his conſcience is ſcrupled, as the Apoſtle ſaith
+<hi>Rom.</hi> 14. 15. then much leſſe ought any one to puniſh any one ſo
+ſcrupled; eſpecially when they are known to be godly, and
+what they hold they have much reaſon for: This is to grieve
+indeed, and to deſtroy indeed, any tender conſcience: <hi>Him that
+is weak receive not to doubtfull Diſputations,</hi> Rom. 14. <hi>Beza</hi> inter<g ref="char:EOLhyphen"/>preteth
+the word thus: <hi>Though we think you may not eat, &amp;c.</hi> he ſaith
+not, Caſt him out of the Kingdom.</p>
+            <p>Thirdly, do but hold this, that for difference in ſmaller mat<g ref="char:EOLhyphen"/>ters
+men are not to be ſuffered, and you lay a ground of a con<g ref="char:EOLhyphen"/>tinuall,
+and moſt bitter perſecution as can be; for if one King<g ref="char:EOLhyphen"/>dom
+may not ſuffer them, and this be becauſe of the Law of
+God; another may not ſuffer them likewiſe, for the ſame Law
+bindes all; and then there is no way but death for them; men
+are not to live in the world, who are not of the ſame ſize with o<g ref="char:EOLhyphen"/>thers.
+Now the Religion which is from above, is more mercifull
+and juſt then this; if a man ſwear, be drunk, commit unclean<g ref="char:EOLhyphen"/>neſſe,
+there is but a common mulct of the Statute on him, he is
+ſuffered to live in the land; and why ſhould a greater puniſh<g ref="char:EOLhyphen"/>ment
+be inflicted on thoſe that differ in judgement in ſmaller;
+<pb n="42" facs="tcp:154994:25"/>
+things; it is not becauſe of it ſelf, for the ſin is not ſo hainous,
+if it be a ſin; neither is it in reſpect of the authority, that is de<g ref="char:EOLhyphen"/>ſpiſed,
+for that is alike in the other: What a ſad thing is this,
+that a man for following his judgement (which God will damn
+him for if he go againſt it, while it is judgement;) ſhould not
+be ſuffered a place in the world; for if one State will not ſuffer
+him, why ſhould another.</p>
+            <p>Fourthly, theſe which are ſubject to errors and miſtakes them<g ref="char:EOLhyphen"/>ſelves,
+may not puniſh thoſe who hold an opinion different from
+them; for what if that they puniſh for ſhould be a truth (as
+there is none can infallably determine the contrary;) their pu<g ref="char:EOLhyphen"/>niſhment
+would be perſecution; what if it ſhould not, but they
+think ſo, to puniſh would be oppreſſion; for even they themſelves
+are ſubject to the ſame errors; yea, and that they themſelves hold
+may be an error.</p>
+            <p>Fifthly, conſider the power God hath given to conſcience,
+and I argue thus, no man is to be puniſhed for his duty; this is
+a mans duty that God requires, that conſcience ſhould give war<g ref="char:EOLhyphen"/>rants
+and direction for every act; and the rule is cleer, <hi>Rom.</hi> 14.
+<hi>v.</hi> laſt, <hi>whatever is not of faith is ſin,</hi> man can do nothing religi<g ref="char:EOLhyphen"/>ouſly
+without the perſwaſion of his conſcience; let every man be
+fully perſwaded in his own mind; now what juſtice can there be
+in puniſhing a man for not ſinning againſt God?</p>
+            <p>Sixthly, that way which is not adaequate to, or is ineffectuall
+for the recovery of any in error, or their ſalvation is not to be
+taken; but ſuch is an externall puniſhment for a meer ſpirituall
+offence (which yet is queſtionable whether it be an offence) to
+baniſh men, or impriſon them, meerly for their judgment, is a
+very unfit means to recover them; neither hath God ever ſancti<g ref="char:EOLhyphen"/>fied
+it to ſuch an end: nay, there is nothing more hardens men
+in their error then ſuch a courſe, and makes them more refra<g ref="char:EOLhyphen"/>ctory
+and incorrigible: men will be led and not drawn; few or
+none ever were recovered, with whom ſuch courſe have been
+taken.</p>
+            <p>Seventhly, that courſe which will never bring about, even the
+end of the puniſhers themſelves may not be taken, the great end
+in mens not ſuffering thoſe which are of different judgement to
+<pb n="43" facs="tcp:154994:25"/>
+enjoy their liberty, is to bring in a uniformity which never hath
+been yet, nor never is to be expected while we are here; for as
+long as men have reaſon in them, and a free underſtanding, there
+will be different apprehenſions of things; and that old ſaying,
+<hi>quot homines, tot ſententia,</hi> will ever be. Herein is the manifold wiſ<g ref="char:EOLhyphen"/>dome,
+and fulneſſe of God ſeen, in giving different gifts to men;
+and untill you can compound all men into one head and reaſon,
+you can never bring this about; yea, even the ſame man, at the
+ſame time, hath different apprehenſions of things, and now his
+underſtanding is cleer for that which now through ſtronger rea<g ref="char:EOLhyphen"/>ſons
+he is againſt: its true, all the Saints agree in fundamentals,
+but for other things it is as light is revealed from heaven to
+them: and if the matter were ſifted, this crying out for uni<g ref="char:EOLhyphen"/>formity,
+is but to make all men ſubſcribe to the Clergie, who
+muſt ſee for all the reſt of the people; and let a mans judgment
+be never ſo rationall, yet if not ſuitable to the common clamour
+of the times, both the man and his man, and his judgment;
+muſt not have a being in the Kingdome, yea, though before
+accounted moſt godly: either you muſt infuſe into all men, one
+and the ſame individuall conſcience, and give men the ſame
+underſtanding with you, or elſe you muſt ſuffer them; unleſſe
+you will make every man a groſſe hypocrite.</p>
+            <p>Eightly, That which puts a ſtate or people upon the greateſt
+hazard, not probably only, but moſt times neceſſarily, of perſecu<g ref="char:EOLhyphen"/>ting
+the moſt godly, and grieving the hearts of thoſe whom
+Chriſt would not have grieved, that is not a way of Chriſt;
+but doth this opinion, that none that differ from a State in any
+thing may be tolerated; its a thouſand to one but ſome Saints,
+who love the Lord Jeſus dearly, are of thoſe opinion, (I am ſure,
+of this opinion I now contend for, hundreds are) now their ſides
+muſt be wounded, and their habitations made deſolate, though
+they are ſuch as Chriſt loves; who follow their judgments meer<g ref="char:EOLhyphen"/>ly
+out of love to truth, and thorough the convictions of their
+conſcience; eſpecially the godly are oftentimes, if they are
+overtaken with errors of ſmaller and leſſer conſequence, ſuch
+as are on the right hand; and what a perſecution is this, unpa<g ref="char:EOLhyphen"/>ralleld
+in any age, not to ſuffer them in the ſame Kingdome with
+<pb n="44" facs="tcp:154994:26"/>
+them. Even the Papiſts in Queen <hi>Maries</hi> time puniſhed not for
+matters of Diſcipline, but for fundamentall differences of their
+Religion: there can be no State free from the blood of Mar<g ref="char:EOLhyphen"/>tyrs,
+if this Principle be ingrafted to them, and practiſed by
+them.</p>
+            <p>Ninthly, this will be the greateſt hindrance of knowledge and
+growth in Religion that can be; for it puts out mens own eyes
+and judgment, and ties them to ſee by others; every man (which
+hath not his conſcience and judgment quite ſold to the com<g ref="char:EOLhyphen"/>mon
+opinions, and loſt in the common road) will be affraid to
+read the Scriptures, or ſearch them throughly, for if God
+ſhould dart in any light from them, or his own ingenuity
+thorough the ſtrength of his reaſon ſhould be forced to diſſent
+from the multitude, either he muſt ſtiffle in the birth his divine
+conception, (for ſo it may be) (for if he be known to be of ſuch
+a judgment (though in it ſelf never ſo ſmall) he muſt looſe all he
+hath, and <hi>ipſo facto,</hi> be liable to the greateſt cenſure;) or elſe he
+muſt diſſemble his judgment, and wound his conſcience, what
+a ſtrait is this? this will be only growth in religion, to grow up
+more conformable to the opinion of the times; &amp; he will be ac<g ref="char:EOLhyphen"/>counted
+the moſt knowing man, who hath the language of the
+times moſt by heart, no man durſt ſet to himſelf a higher pitch
+in walking with God then the State hath ſet to him, upon pain
+of the greateſt hazard; and wheras God reveals divers truths in
+divers ages &amp; times (eſpecially in matters of government and
+worſhip) more and more, as men come out of Antichriſtian dark<g ref="char:EOLhyphen"/>neſſe,
+yet none muſt be ſuffered and tolerated, but that one, it
+may it ſelf be Antichriſtian; at the leaſt miſerable cold and
+formall.</p>
+            <p>Tenthly, if you will needs be puniſhing for ſmaller difference
+in judgment, I deſire you to ſhew your Commiſſion and War<g ref="char:EOLhyphen"/>rant
+from the Lord Jeſus, and I am ſure he never gave either
+patterne or precept for ſuch a courſe, he knowes his gifts he gives
+to men are different, and that light he communicates, is more
+and leſſe, and he beares with his Saints who are of different
+growth and ſtature, and I thinke we ought to beare much more;
+who are as infirme as any others; he bore with his Diſciple,
+<pb n="45" facs="tcp:154994:26"/>
+weakneſſe, when they believed not the reſurrection, and came
+with peace in his mouth to them; how much more would he have
+borne, if they had doubted only of matters of Diſcipline?
+<hi>Rom. 15. 1. you which are ſtrong ought to heare with the infirmities of
+the weak,</hi> and not to pleaſe your ſelves, as Chriſt pleaſed not
+himſelf.</p>
+            <p>I hope you will walk as Chriſt walked, Chriſt told his Diſci<g ref="char:EOLhyphen"/>ples,
+<hi>Luk.</hi> 9. 54. that they knew not of what ſpirit they were of;
+when they would have fire to come down from heaven to con<g ref="char:EOLhyphen"/>ſume
+thoſe that would not receive him, there are many ſuch ſpi<g ref="char:EOLhyphen"/>rits
+now a day, but they know not what ſpirit they are of.</p>
+            <p>
+               <hi>Object.</hi> But it will be ſaid, and its the maine objection they
+have, if we tolerate you, we muſt likewiſe tolerate Papiſts, &amp;c.</p>
+            <p>
+               <hi>Anſw.</hi> That doth not follow, for their very principles op<g ref="char:EOLhyphen"/>poſeth
+the ſecular power, they differ in fundamentalls, and
+are properly another Religion, and yet the State faith, when
+they execute Jeſuites and Fryers, &amp;c. it is not for their con<g ref="char:EOLhyphen"/>ſcience
+or religion only: That we differ is but in a point, not of
+abſolute neceſſity to ſalvation, though neerer the beauty and or<g ref="char:EOLhyphen"/>nament
+of Religion, and being a truth of Chriſt, (as is concei<g ref="char:EOLhyphen"/>ved,
+it muſt be prized, and we dare not diſcharge our conſcience
+of it. I ſhall ſay no more of this; but let men take heed how
+they perſecute the Saints, and oppreſſe their Brethren, leſt Jeſus
+Chriſt draw forth his Iron Scepter againſt them, to vindicate
+the innocency of his people.</p>
+            <p>
+               <hi>To my twelfth quaere (ſaith he) he only anſwers,</hi> That I fall a
+jeering of my Brethren, and that I put a nick name on them, to make
+them odious, not anſwering one ſillable to the ſubſtance of the Queſtion.</p>
+            <p>To what I ſhould anſwer, more then I did, I am not yet infor<g ref="char:EOLhyphen"/>med;
+for this was his Queſtion, whether it be not a proud inſo<g ref="char:EOLhyphen"/>lent
+name we arrogate to be independent? I anſwered, that wee
+diſclaime it, and that in print: and therefore his Quaere could
+be nothing but a jeare. To which he anſwers, firſt, <hi>That this ti<g ref="char:EOLhyphen"/>tle
+was at firſt aſſumed, approved of by your ſelves, and is ſtill owned
+by many;</hi> you ſhould have named the perſons that aſſumed
+it, as for our parts, as many as I know abhor the name as its
+fathered on us. Indeed we are independent in this regard, that
+<pb n="46" facs="tcp:154994:27"/>
+we will not ſubject our judgements and cauſe to the juridicall
+power either of Maſter <hi>Pryn,</hi> or any others, though we will lie
+down at the foot of Chriſt in whatever he ſhall command us out
+of his Word; and the truth is, the Presbytery is the onely inde<g ref="char:EOLhyphen"/>pendent
+in the world, and may moſt properly be called ſo, for
+you neither depend on the Scriptures for it, for you af<g ref="char:EOLhyphen"/>firme
+not <hi>jure divino,</hi> neither hath it dependence on others,
+for you ſay in your third Reply, <hi>pag.</hi> 13. that it needs not the
+aid and aſſiſtance of other Churches: for as the ever honoured
+Lord <hi>Brookes</hi> ſaid in his booke againſt Biſhops, <hi>I know no reaſon
+why one Congregation ſhould be accounted more independent in reſpect
+of a whole Nation, then Geneva in reſpect of France, and France in re<g ref="char:EOLhyphen"/>ſpect
+of all Europs cominent.</hi> Therefore you are beſt to take up that
+title on your ſelves, as moſt ſuiting with your principles. As for
+our part we are accomptable for our actions to every neighbour
+Church that ſhall in the name of Chriſt require it; and we ſtand
+not independent from, but hold communion with all other
+Churches, both in Ordinances and asking counſell mutually;
+though we thinke no Church hath a power of juriſdiction to
+command or impoſe any thing on us.</p>
+            <p>To which you anſwer: <hi>That if we are accountable for our actions
+to every particular neighbour Church, then why not much more to a Parli<g ref="char:EOLhyphen"/>ament
+or Synod:</hi> To which I anſwer: We ſhall be as ready to
+give an account to the Parliament and Synod of any action we
+do, with the reaſon of it, as well—nay, rather then to any
+other; as for the way of doing of it, we are accountable by way
+of information, and ſatisfaction; and in ſome caſes unto the
+Magiſtrate by way of juſt appeal: as in caſe an obſtinate offen<g ref="char:EOLhyphen"/>der
+ſhall be excommunicated, and he be unruly, he or we may
+appeal to the Magiſtrate for redreſſe; we, that if the Magi<g ref="char:EOLhyphen"/>ſtrate
+judge him juſtly excommunicated, he may be reſtrained
+from diſturbing of us: he, that if the Magiſtrate judge the
+ſentence unjuſt, may be publikely cleared and vindicated. But
+for any authorative power of juriſdiction that Synods or any
+have to make Canons and impoſe on us which we are bound to
+follow, we humbly conceive it not be the minde of Chriſt; and
+we ſhall deſire Maſter <hi>Pryn</hi> to ſhew us his Rule in Scripture.</p>
+            <p>
+               <pb n="47" facs="tcp:154994:27"/>
+To the ſecond he anſwers: That if you ſtand not independant from
+other Churches, but hold communion with them: Then firſt, why do you
+ſeparate from them as no true Chriſtians?</p>
+            <p>
+               <hi>Anſw.</hi> I anſwer in generall: We ſeparate from none we
+know to be true Churches; but if you mean by your true Church
+the whole bulk of the nation, whom you call a Church, we
+muſt needs ſeparate from it, for we acknowledge no ſuch
+Church. Yet,</p>
+            <p>Secondly, Though we acknowledge not <hi>England</hi> as a nation to
+be a true Church, yet we acknowledge many true Churches in
+<hi>England,</hi> with whom yet we cannot communicate in Church Or<g ref="char:EOLhyphen"/>dinances,
+becauſe of many perſonall defilements among them,
+or yet purged out: and if they would give us leave in our commu<g ref="char:EOLhyphen"/>nion
+with them to profeſſe againſt theſe corruptions which we
+think defile them, we ſhould not ſcruple communion with them.
+You know that one may be a reall man, yee ſo corrupted with
+diſeaſes and ſores, that it may be dangerous to come nigh him,
+or eat or drink with him. Glad ſhould we be to joyn with them,
+if they were ſo reformed, and that mixture taken away, that, as
+nigh as could be, none but ſuch as had a right to Chriſt might
+partake of the Ordinances; untill then you muſt excuſe us,
+if though we think many to be true Churches, we cannot actu<g ref="char:EOLhyphen"/>ally
+communicate with them.</p>
+            <p>
+               <hi>You tell us (ſaith he) that neither I, nor any Synods, nor this Synod
+is infallible, &amp;c. Therefore men are not bound to obey their decrees on pe<g ref="char:EOLhyphen"/>nalty
+of ſin. To which he anſwers onely by way of Querie; May not you
+and your Independent Miniſters erre as well others?</hi> O yes ſurely, there<g ref="char:EOLhyphen"/>fore
+they arrogate not ſuch a power to make Laws for others;
+as for that of the Major Votes, its anſwered before. How ever
+ſlight Maſter <hi>Pryn</hi> makes of this reaſon, yet untill he hath an<g ref="char:EOLhyphen"/>ſwered,
+he muſt give us leave to beleeve it. For if Synods have
+power to binde the conſcience, it is either becauſe they can en<g ref="char:EOLhyphen"/>joyn
+nothing but truth (for truth onely binds the conſcience)
+and ſo are infallible, or elſe becauſe of their own power and
+authority; I know no other ground for it. <hi>Is this good Logick, or
+Divinity? (ſaith he) Good Miniſters may, and do erre in ſome points of
+Divinity, therefore we will beleeve them in none.</hi> In that you ſay true,
+<pb n="48" facs="tcp:154994:28"/>
+there is neither Logick nor Divinity; but the Conſequence, as I
+draw it, is this: Miniſters may erre, therefore none are abſo<g ref="char:EOLhyphen"/>lutely
+bound to beleeve every thing they ſay as Scripture, and ſo
+to ſin if they obey not: for its a certain truth, not probable, that
+binds the conſcience. Certain, I ſay, either as I apprehend it, or
+in regard of it ſelf; if I am bound to beleeve what ever they ſay
+that are in authority, who may erre, then my conſcience is ſub<g ref="char:EOLhyphen"/>ject
+to errour, as well as truth; for that which is commanded
+may be errour, yea, if I think it errour, yet I muſt obey it: and
+this holds in every thing, as well as any thing: for in all things
+that is commanded, they who command are to go by their own
+<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>dgements of the truth of the thing that they enjoyn, and their
+judgements may erre, yet I am bound to obey, and ſin if I do
+not: Nay, ſuppoſe what they command to be a truth, yet I
+think it an errour, and ſo it is to me, (my conſcience ſo judging)
+yet I am bound to obey, elſe I ſin. The Lord learn you, and
+thoſe in authority, more tenderneſſe to Saints conſciences,
+that you may not put ſuch a yoke upon our necks,
+that neither we nor our fathers were
+able to bear.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:154994:28"/>
+         </div>
+      </body>
+   </text>
+</TEI>
